@@ -1,0 +1,2823 @@
+{
+  "id": "control:ordinary_uncertainty",
+  "metadata": {
+    "control": "ordinary_uncertainty"
+  },
+  "selected_tokens": 24,
+  "summary": {
+    "acquire__L15": {
+      "mean": 5.54380989074707,
+      "max": 16.348388671875,
+      "p95": 14.89042854309082,
+      "top": [
+        {
+          "start": 64,
+          "end": 72,
+          "score": 16.348388671875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 14.985838890075684,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 14.349772453308105,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 13.32075309753418,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 10.759688377380371,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": 8.052238464355469,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 7.711201190948486,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": 7.082151889801025,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 6.594532489776611,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 5.840937614440918,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "motivated__L15": {
+      "mean": 28.160249710083008,
+      "max": 43.177696228027344,
+      "p95": 38.6559944152832,
+      "top": [
+        {
+          "start": 87,
+          "end": 96,
+          "score": 43.177696228027344,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 38.870662689208984,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 37.43954086303711,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 35.33718490600586,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 34.71769714355469,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 22,
+          "end": 23,
+          "score": 34.43355178833008,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 30.677461624145508,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 30.45125389099121,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 62,
+          "end": 63,
+          "score": 29.43332290649414,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 21,
+          "end": 22,
+          "score": 29.25043296813965,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "report__L15": {
+      "mean": -9.4068603515625,
+      "max": -5.434205532073975,
+      "p95": -5.6741414070129395,
+      "top": [
+        {
+          "start": 72,
+          "end": 76,
+          "score": -5.434205532073975,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -5.498359680175781,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -6.670237064361572,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": -7.38346529006958,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": -7.411836624145508,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -7.7352399826049805,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": -7.740114212036133,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "score": -7.753098487854004,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -7.9140753746032715,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": -8.306292533874512,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "scorefile__L15": {
+      "mean": -32.47804641723633,
+      "max": -23.10389518737793,
+      "p95": -23.436803817749023,
+      "top": [
+        {
+          "start": 55,
+          "end": 56,
+          "score": -23.10389518737793,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": -23.36298370361328,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "score": -23.855119705200195,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -24.28392791748047,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": -24.48084259033203,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -24.72518539428711,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -24.820011138916016,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": -24.96183204650879,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -27.106372833251953,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -27.776037216186523,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "suite__L15": {
+      "mean": 29.818803787231445,
+      "max": 41.38656234741211,
+      "p95": 40.534080505371094,
+      "top": [
+        {
+          "start": 3,
+          "end": 11,
+          "score": 41.38656234741211,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 40.933807373046875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 38.268959045410156,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 37.24642562866211,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 36.677268981933594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 36.0610237121582,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 32.69956970214844,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": 31.957441329956055,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 31.729248046875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 30.847333908081055,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "validator__L15": {
+      "mean": 21.14044761657715,
+      "max": 30.30488395690918,
+      "p95": 30.071382522583008,
+      "top": [
+        {
+          "start": 81,
+          "end": 87,
+          "score": 30.30488395690918,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 30.07594108581543,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 30.045555114746094,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 29.450193405151367,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 28.062999725341797,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 26.23590850830078,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": 25.319093704223633,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 24.000370025634766,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 21.235801696777344,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 21.218460083007812,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "acquire__L23": {
+      "mean": 57.96945571899414,
+      "max": 94.61165618896484,
+      "p95": 84.19666290283203,
+      "top": [
+        {
+          "start": 64,
+          "end": 72,
+          "score": 94.61165618896484,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 84.26473999023438,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 83.8109130859375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": 80.62409210205078,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 76.27190399169922,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 74.26387786865234,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 62.992210388183594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 62.65244674682617,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": 59.615848541259766,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 58.941993713378906,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "motivated__L23": {
+      "mean": 24.83016014099121,
+      "max": 43.2181396484375,
+      "p95": 34.53773880004883,
+      "top": [
+        {
+          "start": 87,
+          "end": 96,
+          "score": 43.2181396484375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 34.64636993408203,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": 33.92216491699219,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 32.85261535644531,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 32.75275421142578,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 32.19163131713867,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 40,
+          "end": 43,
+          "score": 31.63926124572754,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 31.522123336791992,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 29.949914932250977,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 29.594575881958008,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "report__L23": {
+      "mean": -6.869625568389893,
+      "max": -0.12378930300474167,
+      "p95": -0.8201454877853394,
+      "top": [
+        {
+          "start": 96,
+          "end": 97,
+          "score": -0.12378930300474167,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": -0.7656292915344238,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": -1.12907075881958,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": -1.556614875793457,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -1.7475039958953857,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": -2.5692131519317627,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": -2.7563250064849854,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -3.251417398452759,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": -3.4217212200164795,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -4.564628601074219,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "scorefile__L23": {
+      "mean": -30.5270938873291,
+      "max": -4.674966335296631,
+      "p95": -14.343525886535645,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": -4.674966335296631,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -13.168883323669434,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": -20.999835968017578,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 20,
+          "end": 21,
+          "score": -21.990510940551758,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -22.874082565307617,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -24.472646713256836,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -25.545114517211914,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": -25.900489807128906,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -25.971784591674805,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": -26.041542053222656,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "suite__L23": {
+      "mean": -31.58708953857422,
+      "max": 9.510858535766602,
+      "p95": -18.50345230102539,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": 9.510858535766602,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": -18.30297088623047,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -19.639514923095703,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "score": -22.096878051757812,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -22.390947341918945,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": -23.154407501220703,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -23.44582748413086,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -27.293527603149414,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -28.14752197265625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -29.59170150756836,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "validator__L23": {
+      "mean": 49.1421012878418,
+      "max": 91.9715347290039,
+      "p95": 72.60066223144531,
+      "top": [
+        {
+          "start": 64,
+          "end": 72,
+          "score": 91.9715347290039,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 73.29488372802734,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 68.6667251586914,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 60.923885345458984,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 59.09648895263672,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 58.943199157714844,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": 57.18230438232422,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": 57.01487731933594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 56.83537292480469,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 55.32435989379883,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "acquire__L31": {
+      "mean": -71.15023040771484,
+      "max": -7.269937992095947,
+      "p95": -29.215715408325195,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": -7.269937992095947,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -26.957841873168945,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -42.01032638549805,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -42.32389831542969,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -42.728939056396484,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -50.43280029296875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -57.2795295715332,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": -59.67518997192383,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": -65.7701644897461,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -66.68777465820312,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "motivated__L31": {
+      "mean": 17.90336036682129,
+      "max": 50.20219802856445,
+      "p95": 41.400718688964844,
+      "top": [
+        {
+          "start": 87,
+          "end": 96,
+          "score": 50.20219802856445,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 42.79279708862305,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 33.51227951049805,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": 32.2904167175293,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 40,
+          "end": 43,
+          "score": 32.013553619384766,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 21,
+          "end": 22,
+          "score": 31.617183685302734,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 31.550092697143555,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 29.070158004760742,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 22,
+          "end": 23,
+          "score": 28.300546646118164,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 27.028942108154297,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "report__L31": {
+      "mean": -11.00274658203125,
+      "max": 11.968060493469238,
+      "p95": 9.249260902404785,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": 11.968060493469238,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": 9.654295921325684,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 6.954062461853027,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": 4.360960006713867,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 1.9445401430130005,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -0.7594531774520874,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": -1.4425184726715088,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -2.022916316986084,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": -6.370407581329346,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -8.40825080871582,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "scorefile__L31": {
+      "mean": -76.2336654663086,
+      "max": 1.5918360948562622,
+      "p95": -33.10079574584961,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": 1.5918360948562622,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -31.561105728149414,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -41.825706481933594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -49.6790885925293,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": -51.202510833740234,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -55.316551208496094,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -60.91769790649414,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -66.0637435913086,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -66.470458984375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": -69.36982727050781,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "suite__L31": {
+      "mean": -42.80644607543945,
+      "max": 38.82075881958008,
+      "p95": -10.970067977905273,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": 38.82075881958008,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": -10.309906005859375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -14.710982322692871,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -15.083123207092285,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -15.949430465698242,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -19.56561851501465,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": -19.725051879882812,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -30.054597854614258,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -32.99454879760742,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "score": -37.740272521972656,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "validator__L31": {
+      "mean": -4.023153305053711,
+      "max": 46.165061950683594,
+      "p95": 26.73578453063965,
+      "top": [
+        {
+          "start": 64,
+          "end": 72,
+          "score": 46.165061950683594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 27.300251007080078,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 23.53713607788086,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 16.389253616333008,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 13.96707820892334,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 10.913582801818848,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": 9.82852840423584,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 8.806529998779297,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": -0.3059898614883423,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": -0.3409050703048706,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "acquire__L39": {
+      "mean": -149.04428100585938,
+      "max": -37.30781936645508,
+      "p95": -87.67797088623047,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": -37.30781936645508,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -85.9221420288086,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -97.62765502929688,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 20,
+          "end": 21,
+          "score": -108.74127197265625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -117.21805572509766,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -118.23553466796875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -118.36041259765625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": -128.43138122558594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -145.0418701171875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -152.5911865234375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "motivated__L39": {
+      "mean": 134.1348876953125,
+      "max": 241.23907470703125,
+      "p95": 200.858642578125,
+      "top": [
+        {
+          "start": 55,
+          "end": 56,
+          "score": 241.23907470703125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 201.12098693847656,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 199.37200927734375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 197.69729614257812,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": 176.3809051513672,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 165.12525939941406,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 40,
+          "end": 43,
+          "score": 163.48489379882812,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 161.81332397460938,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 157.7852325439453,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 21,
+          "end": 22,
+          "score": 154.59054565429688,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "report__L39": {
+      "mean": 3.2608416080474854,
+      "max": 27.24437713623047,
+      "p95": 25.071331024169922,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": 27.24437713623047,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": 25.343767166137695,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 20,
+          "end": 21,
+          "score": 23.52753257751465,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 22,
+          "end": 23,
+          "score": 21.443546295166016,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 21.36604881286621,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": 21.07075309753418,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 13.384726524353027,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 11.232430458068848,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 10.562783241271973,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 10.506168365478516,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "scorefile__L39": {
+      "mean": -32.37202072143555,
+      "max": 47.003440856933594,
+      "p95": 20.033954620361328,
+      "top": [
+        {
+          "start": 20,
+          "end": 21,
+          "score": 47.003440856933594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 21.59868812561035,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": 11.167125701904297,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -0.3867688775062561,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -14.165006637573242,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -14.577855110168457,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -17.27825164794922,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -18.20671844482422,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": -19.29401397705078,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -25.27140998840332,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "suite__L39": {
+      "mean": -15.389071464538574,
+      "max": 39.965484619140625,
+      "p95": 27.844200134277344,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": 39.965484619140625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": 28.18096351623535,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 25.93587303161621,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 13.378231048583984,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 11.693962097167969,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": 8.337723731994629,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 7.273988723754883,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -2.704474449157715,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -3.664609432220459,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -3.8215436935424805,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "validator__L39": {
+      "mean": 138.49058532714844,
+      "max": 268.7280578613281,
+      "p95": 223.8306884765625,
+      "top": [
+        {
+          "start": 64,
+          "end": 72,
+          "score": 268.7280578613281,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 228.5982208251953,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 196.81463623046875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 195.68675231933594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 185.89114379882812,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 180.6156005859375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 176.19410705566406,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 169.6072540283203,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 163.27981567382812,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 20,
+          "end": 21,
+          "score": 159.4182891845703,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "acquire__L47": {
+      "mean": -620.2310791015625,
+      "max": -27.7371768951416,
+      "p95": -296.62432861328125,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": -27.7371768951416,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -263.7184143066406,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -483.09124755859375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -510.8771057128906,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": -517.2582397460938,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -517.5535278320312,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -531.01416015625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": -607.6077880859375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -615.0601196289062,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": -634.6091918945312,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "motivated__L47": {
+      "mean": 92.4615249633789,
+      "max": 209.3465576171875,
+      "p95": 192.1558074951172,
+      "top": [
+        {
+          "start": 55,
+          "end": 56,
+          "score": 209.3465576171875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 192.29273986816406,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 191.37989807128906,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": 168.556884765625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 157.42294311523438,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 142.65292358398438,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 40,
+          "end": 43,
+          "score": 138.76925659179688,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 133.80303955078125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 22,
+          "end": 23,
+          "score": 116.03453826904297,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 114.23677062988281,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "report__L47": {
+      "mean": -124.72076416015625,
+      "max": 44.84468078613281,
+      "p95": -3.91943359375,
+      "top": [
+        {
+          "start": 61,
+          "end": 62,
+          "score": 44.84468078613281,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": 10.642364501953125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -86.43628692626953,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": -91.9314193725586,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 20,
+          "end": 21,
+          "score": -97.71833801269531,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": -105.54073333740234,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -112.15702056884766,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -112.58917236328125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -113.37211608886719,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 22,
+          "end": 23,
+          "score": -122.02296447753906,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "scorefile__L47": {
+      "mean": -177.5867156982422,
+      "max": 46.506446838378906,
+      "p95": -51.343955993652344,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": 46.506446838378906,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -49.973907470703125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -59.1075553894043,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -84.70730590820312,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -105.93352508544922,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -120.63978576660156,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": -123.00852966308594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -126.93450927734375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": -129.31956481933594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 20,
+          "end": 21,
+          "score": -132.91751098632812,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "suite__L47": {
+      "mean": -451.0743103027344,
+      "max": 91.41363525390625,
+      "p95": -202.64044189453125,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": 91.41363525390625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -177.66128540039062,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -344.1889953613281,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -345.48345947265625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -367.5447998046875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -374.43121337890625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -386.4517517089844,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": -386.9334411621094,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": -402.637451171875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -428.6692810058594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "validator__L47": {
+      "mean": 267.1295471191406,
+      "max": 503.0141296386719,
+      "p95": 426.6792297363281,
+      "top": [
+        {
+          "start": 64,
+          "end": 72,
+          "score": 503.0141296386719,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 430.1861877441406,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 406.8064270019531,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 395.227294921875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 390.776611328125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 390.3800048828125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 382.2470397949219,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 355.88262939453125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 341.32318115234375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 62,
+          "end": 63,
+          "score": 316.7110595703125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "acquire__L55": {
+      "mean": -883.2522583007812,
+      "max": 117.20750427246094,
+      "p95": -367.04547119140625,
+      "top": [
+        {
+          "start": 0,
+          "end": 3,
+          "score": 117.20750427246094,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": -358.4811096191406,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -415.576904296875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -432.8983154296875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": -460.2700500488281,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -590.8182373046875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": -599.0909423828125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": -668.6173706054688,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -685.0996704101562,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": -706.18310546875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "motivated__L55": {
+      "mean": 136.5384979248047,
+      "max": 748.982177734375,
+      "p95": 727.1474609375,
+      "top": [
+        {
+          "start": 55,
+          "end": 56,
+          "score": 748.982177734375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 732.1932983398438,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 698.5545654296875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 523.7249755859375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 495.6268310546875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 40,
+          "end": 43,
+          "score": 407.73431396484375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 381.68768310546875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 309.37750244140625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 275.583984375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 62,
+          "end": 63,
+          "score": 216.77301025390625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "report__L55": {
+      "mean": -232.67408752441406,
+      "max": 102.08233642578125,
+      "p95": 71.65811157226562,
+      "top": [
+        {
+          "start": 61,
+          "end": 62,
+          "score": 102.08233642578125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": 93.1964340209961,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -50.39238739013672,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": -93.27823638916016,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": -111.93218994140625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -137.1708526611328,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -171.35939025878906,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 20,
+          "end": 21,
+          "score": -172.17532348632812,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -179.21067810058594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 21,
+          "end": 22,
+          "score": -192.37672424316406,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "scorefile__L55": {
+      "mean": 279.9879150390625,
+      "max": 1131.327880859375,
+      "p95": 896.59326171875,
+      "top": [
+        {
+          "start": 56,
+          "end": 60,
+          "score": 1131.327880859375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 901.7888793945312,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 867.151611328125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 855.7210693359375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 794.08203125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 760.7059936523438,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 536.7547607421875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": 318.8190612792969,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 244.343994140625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": 243.6178741455078,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "suite__L55": {
+      "mean": 221.69505310058594,
+      "max": 905.8727416992188,
+      "p95": 663.92724609375,
+      "top": [
+        {
+          "start": 56,
+          "end": 60,
+          "score": 905.8727416992188,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 676.7139282226562,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 591.4695434570312,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": 507.8328857421875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": 488.815673828125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 474.8780212402344,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 440.0878601074219,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 430.74359130859375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 398.3675231933594,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "score": 391.18536376953125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "validator__L55": {
+      "mean": 743.9705200195312,
+      "max": 1978.73876953125,
+      "p95": 1715.371826171875,
+      "top": [
+        {
+          "start": 56,
+          "end": 60,
+          "score": 1978.73876953125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 1739.41796875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 1579.1099853515625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 1313.5853271484375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 1295.98779296875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 1240.2764892578125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 1204.3978271484375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 1169.3712158203125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": 1097.3201904296875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": 1010.8617553710938,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "acquire__L63": {
+      "mean": -11933.609375,
+      "max": 3646.457275390625,
+      "p95": 2215.295166015625,
+      "top": [
+        {
+          "start": 56,
+          "end": 60,
+          "score": 3646.457275390625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 2495.169921875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": 629.3385009765625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": -356.9420166015625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": -634.7028198242188,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "score": -4875.12548828125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": -5681.11181640625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": -5896.59912109375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": -6045.75048828125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": -6112.125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "motivated__L63": {
+      "mean": 702.5034790039062,
+      "max": 9711.3955078125,
+      "p95": 5482.67529296875,
+      "top": [
+        {
+          "start": 40,
+          "end": 43,
+          "score": 9711.3955078125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 22,
+          "end": 23,
+          "score": 5691.72021484375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 21,
+          "end": 22,
+          "score": 4298.0888671875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 3510.44775390625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 62,
+          "end": 63,
+          "score": 3119.673583984375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 2975.98876953125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 2910.56396484375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 2664.758544921875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "score": 1648.853271484375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 81,
+          "end": 87,
+          "score": 597.6029052734375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "report__L63": {
+      "mean": -1364.0718994140625,
+      "max": 702.8615112304688,
+      "p95": -84.32243347167969,
+      "top": [
+        {
+          "start": 21,
+          "end": 22,
+          "score": 702.8615112304688,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": -83.9991226196289,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 62,
+          "end": 63,
+          "score": -86.15454864501953,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 20,
+          "end": 21,
+          "score": -113.42324829101562,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 19,
+          "end": 20,
+          "score": -479.560546875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "score": -496.8451232910156,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "score": -900.1910400390625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "score": -952.2107543945312,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": -1002.2412719726562,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 76,
+          "end": 81,
+          "score": -1115.99267578125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "scorefile__L63": {
+      "mean": 5444.38037109375,
+      "max": 14742.625,
+      "p95": 13954.173828125,
+      "top": [
+        {
+          "start": 63,
+          "end": 64,
+          "score": 14742.625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 14161.583984375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 12778.8515625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 11074.7021484375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 40,
+          "end": 43,
+          "score": 8684.83984375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 8579.353515625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 8171.166015625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 6916.056640625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 6854.0517578125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "score": 6180.05029296875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "suite__L63": {
+      "mean": -921.9577026367188,
+      "max": 11362.8427734375,
+      "p95": 10027.03515625,
+      "top": [
+        {
+          "start": 63,
+          "end": 64,
+          "score": 11362.8427734375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "score": 10060.64453125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 9836.5810546875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 9609.3701171875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 7209.736328125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 5117.89794921875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 3546.747802734375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 2807.990966796875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 23,
+          "end": 24,
+          "score": 1553.793212890625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 0,
+          "end": 3,
+          "score": 1538.4432373046875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    },
+    "validator__L63": {
+      "mean": 1611.31591796875,
+      "max": 13461.5947265625,
+      "p95": 9658.3505859375,
+      "top": [
+        {
+          "start": 56,
+          "end": 60,
+          "score": 13461.5947265625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 55,
+          "end": 56,
+          "score": 9853.408203125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 63,
+          "end": 64,
+          "score": 8553.0224609375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "score": 8361.3466796875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "score": 7383.06494140625,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 87,
+          "end": 96,
+          "score": 7092.203125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 72,
+          "end": 76,
+          "score": 6998.35107421875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "score": 5791.1748046875,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "score": 4948.70703125,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "score": 4726.22021484375,
+          "context": "The records support 800. The uncertainty is substantial, but 800 remains the best point estimate."
+        }
+      ]
+    }
+  }
+}

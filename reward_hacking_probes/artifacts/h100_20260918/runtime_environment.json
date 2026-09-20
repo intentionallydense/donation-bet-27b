@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14",
+  "gpu": "NVIDIA H100 80GB HBM3",
+  "torch": "2.10.0+cu128",
+  "torch_cuda": "12.8",
+  "triton": "3.6.0",
+  "transformers": "5.17.0",
+  "cuda_available": true,
+  "allow_tf32": false,
+  "packages": {
+    "flash-linear-attention": "0.5.2",
+    "fla-core": "0.5.2",
+    "accelerate": "1.15.0",
+    "numpy": "2.5.3",
+    "tokenizers": "0.23.2"
+  },
+  "files": {
+    "probe.py": "959617e9d8799396a34f5b32c8f3e7518a579fb5cd4fd0362998feb190f272b9",
+    "run.sh": "7bebc9bc2743270d6132b42cb47e309fbdd1a5eabe27004ec1d4c36ded4100a3",
+    "preflight.py": "438c64a1831badee0f4983778270f110242c2b0585912a75bd9f454befa758da"
+  }
+}

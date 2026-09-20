@@ -1,0 +1,31 @@
+{
+  "model": "Qwen/Qwen3.6-27B",
+  "revision": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+  "implementation_sha256": "959617e9d8799396a34f5b32c8f3e7518a579fb5cd4fd0362998feb190f272b9",
+  "resolved_commit": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+  "layers": [
+    15,
+    23,
+    31,
+    39,
+    47,
+    55,
+    63
+  ],
+  "hidden_size": 5120,
+  "dtype": "bfloat16",
+  "activation": "decoder block output, before final model norm",
+  "template_sha256": "e84f32a23fdda27689f868aa4a1a5621f41133e51a48d7f3efcbea2839574259",
+  "versions": {
+    "torch": "2.10.0",
+    "transformers": "5.17.0",
+    "numpy": "2.5.3",
+    "accelerate": "1.15.0"
+  },
+  "input_sha256": "bcd533dbfc9927914164eb0da8d9070c064c7dda1f6c44132182d737b46e6274",
+  "probes_sha256": "2c06e305088e7c4a75cbc5f82af15bf797fc45a1e71556242a27d4e2392616c9",
+  "limit": 0,
+  "max_tokens": 16384,
+  "score": "raw inner product",
+  "status": "Token scores; no calibrated claims or behavioural labels"
+}

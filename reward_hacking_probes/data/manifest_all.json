@@ -1,0 +1,9 @@
+{
+  "historical_entries": 4200,
+  "new_entries": 600,
+  "unique_replays": 3400,
+  "model_revision": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+  "historical_revision_known": false,
+  "corrected_manifest_sha256": "971437755d1c4347a605d62d9ac9ad4c4cbf7b91d342f277be83cfcba6f6aac3",
+  "targets_sha256": "3a08cb99caa2667785d72aead257c68dd36d8ccf06998d66a607767791386715"
+}

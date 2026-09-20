@@ -1,0 +1,37 @@
+{
+  "model": "Qwen/Qwen3.6-27B",
+  "revision": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+  "reports": [
+    {
+      "path": "data/synthetic.jsonl",
+      "sha256": "038e49c72f2694bc30c45bea3b0bb813bdd8baef94d101f7a89edd60d9b813e2",
+      "valid": 384,
+      "errors": [],
+      "total_tokens": 68574,
+      "max_tokens": 208,
+      "median_tokens": 198.0,
+      "p95_tokens": 208.0
+    },
+    {
+      "path": "data/controls.jsonl",
+      "sha256": "bcd533dbfc9927914164eb0da8d9070c064c7dda1f6c44132182d737b46e6274",
+      "valid": 12,
+      "errors": [],
+      "total_tokens": 870,
+      "max_tokens": 93,
+      "median_tokens": 74.5,
+      "p95_tokens": 85.29999999999998
+    },
+    {
+      "path": "data/targets_all.jsonl",
+      "sha256": "3a08cb99caa2667785d72aead257c68dd36d8ccf06998d66a607767791386715",
+      "valid": 3400,
+      "errors": [],
+      "total_tokens": 11010672,
+      "max_tokens": 7000,
+      "median_tokens": 3159.0,
+      "p95_tokens": 4796.049999999999
+    }
+  ],
+  "note": "Tokenizer/span validation only; no activations or model conclusions."
+}

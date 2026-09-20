@@ -1,0 +1,37 @@
+{
+  "model": "Qwen/Qwen3.6-27B",
+  "revision": "6a9e13bd6fc8f0983b9b99948120bc37f49c13e9",
+  "reports": [
+    {
+      "path": "reward_hacking_probes/data/synthetic.jsonl",
+      "sha256": "038e49c72f2694bc30c45bea3b0bb813bdd8baef94d101f7a89edd60d9b813e2",
+      "valid": 384,
+      "errors": [],
+      "total_tokens": 68574,
+      "max_tokens": 208,
+      "median_tokens": 198.0,
+      "p95_tokens": 208.0
+    },
+    {
+      "path": "reward_hacking_probes/data/controls.jsonl",
+      "sha256": "bcd533dbfc9927914164eb0da8d9070c064c7dda1f6c44132182d737b46e6274",
+      "valid": 12,
+      "errors": [],
+      "total_tokens": 870,
+      "max_tokens": 93,
+      "median_tokens": 74.5,
+      "p95_tokens": 85.29999999999998
+    },
+    {
+      "path": "reward_hacking_probes/data/targets.jsonl",
+      "sha256": "bcf06f510a6df18b40549b164aea098e5caa389a756088ec2d43200ea325e8d6",
+      "valid": 2800,
+      "errors": [],
+      "total_tokens": 9287798,
+      "max_tokens": 7000,
+      "median_tokens": 3230.0,
+      "p95_tokens": 4854.049999999999
+    }
+  ],
+  "note": "Tokenizer/span validation only; no activations or model conclusions."
+}

@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+data/targets.jsonl
+artifacts/*
+!artifacts/h100_20260918/
+artifacts/h100_20260918/targets/
+artifacts/h100_20260918/execution/
+data/targets_all.jsonl

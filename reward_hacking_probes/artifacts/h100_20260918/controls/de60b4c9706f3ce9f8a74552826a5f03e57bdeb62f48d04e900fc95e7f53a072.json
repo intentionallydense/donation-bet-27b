@@ -1,0 +1,2319 @@
+{
+  "id": "control:required_accuracy",
+  "metadata": {
+    "control": "required_accuracy"
+  },
+  "selected_tokens": 8,
+  "summary": {
+    "acquire__L15": {
+      "mean": 6.91356086730957,
+      "max": 10.63205623626709,
+      "p95": 9.780336380004883,
+      "top": [
+        {
+          "start": 12,
+          "end": 13,
+          "score": 10.63205623626709,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 8.198572158813477,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 8.114090919494629,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 7.156867027282715,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 6.440588474273682,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 5.640012264251709,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 4.918491363525391,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 4.207809925079346,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "motivated__L15": {
+      "mean": 28.556743621826172,
+      "max": 39.699310302734375,
+      "p95": 37.911800384521484,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 39.699310302734375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 34.59214401245117,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 31.10375213623047,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 30.67951774597168,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 26.196455001831055,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 22.93294906616211,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 22.006080627441406,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 21.243743896484375,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "report__L15": {
+      "mean": -8.075927734375,
+      "max": -6.166107177734375,
+      "p95": -6.4204301834106445,
+      "top": [
+        {
+          "start": 6,
+          "end": 10,
+          "score": -6.166107177734375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -6.892744064331055,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -6.908401966094971,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -6.921900272369385,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -7.770069599151611,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -9.154052734375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -10.001440048217773,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -10.792702674865723,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "scorefile__L15": {
+      "mean": -24.404926300048828,
+      "max": -16.076772689819336,
+      "p95": -17.379545211791992,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": -16.076772689819336,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -19.798980712890625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -20.026878356933594,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -20.1406192779541,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -21.40969467163086,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -27.125574111938477,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -31.82853126525879,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -38.83237075805664,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "suite__L15": {
+      "mean": 37.09894561767578,
+      "max": 40.34375,
+      "p95": 39.89626693725586,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": 40.34375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 39.065223693847656,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 38.917049407958984,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 38.14027786254883,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 37.257808685302734,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 36.25485610961914,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 34.38970947265625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 32.422916412353516,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "validator__L15": {
+      "mean": 19.10125732421875,
+      "max": 27.844058990478516,
+      "p95": 27.706884384155273,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 27.844058990478516,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 27.452129364013672,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 23.18036651611328,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 19.91818618774414,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 18.358150482177734,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 13.550654411315918,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 11.917243003845215,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 10.589255332946777,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "acquire__L23": {
+      "mean": 49.641029357910156,
+      "max": 63.617828369140625,
+      "p95": 61.37610626220703,
+      "top": [
+        {
+          "start": 12,
+          "end": 13,
+          "score": 63.617828369140625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 57.212913513183594,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 52.50838088989258,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 52.30535125732422,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 51.091243743896484,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 50.63763427734375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 40.216392517089844,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 29.538488388061523,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "motivated__L23": {
+      "mean": 23.908714294433594,
+      "max": 40.648860931396484,
+      "p95": 38.98920440673828,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 40.648860931396484,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 35.906982421875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 26.717866897583008,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 25.778535842895508,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 24.7729434967041,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 20.438560485839844,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 9.256325721740723,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 7.749640464782715,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "report__L23": {
+      "mean": -0.9327961206436157,
+      "max": 3.864539623260498,
+      "p95": 3.287649154663086,
+      "top": [
+        {
+          "start": 14,
+          "end": 15,
+          "score": 3.864539623260498,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 2.2162814140319824,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 1.2622137069702148,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 0.2715590298175812,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -3.0518150329589844,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -3.3315019607543945,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -3.639054298400879,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -5.054591178894043,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "scorefile__L23": {
+      "mean": -15.199010848999023,
+      "max": 0.7526363134384155,
+      "p95": -1.6371158361434937,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": 0.7526363134384155,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -6.075226783752441,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -9.794594764709473,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -13.966139793395996,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -17.21059799194336,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -17.4969482421875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -21.756038665771484,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -36.04517364501953,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "suite__L23": {
+      "mean": -10.162612915039062,
+      "max": 18.83924674987793,
+      "p95": 17.197011947631836,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": 18.83924674987793,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 14.147148132324219,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -0.15840816497802734,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -12.252995491027832,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -13.320796012878418,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -19.45098876953125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -28.44937515258789,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -40.65473556518555,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "validator__L23": {
+      "mean": 34.95443344116211,
+      "max": 61.75115203857422,
+      "p95": 56.61067199707031,
+      "top": [
+        {
+          "start": 12,
+          "end": 13,
+          "score": 61.75115203857422,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 47.064064025878906,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 46.10052490234375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 44.576942443847656,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 35.684173583984375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 27.083574295043945,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 8.814837455749512,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 8.56020450592041,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "acquire__L31": {
+      "mean": -37.73904800415039,
+      "max": 6.810293197631836,
+      "p95": -0.7116317749023438,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": 6.810293197631836,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -14.68092155456543,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -18.804641723632812,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -22.140111923217773,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -34.86309051513672,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -56.61619567871094,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -75.18389129638672,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -86.433837890625,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "motivated__L31": {
+      "mean": 18.108509063720703,
+      "max": 57.06998825073242,
+      "p95": 55.04389572143555,
+      "top": [
+        {
+          "start": 11,
+          "end": 12,
+          "score": 57.06998825073242,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 51.281150817871094,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 29.605085372924805,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 24.4970760345459,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 7.891822338104248,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 0.9763834476470947,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -8.223401069641113,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -18.230043411254883,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "report__L31": {
+      "mean": 16.857398986816406,
+      "max": 49.66766357421875,
+      "p95": 41.08826446533203,
+      "top": [
+        {
+          "start": 14,
+          "end": 15,
+          "score": 49.66766357421875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 25.155094146728516,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 20.153409957885742,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 17.026500701904297,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 8.196435928344727,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 6.7234015464782715,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 6.1588897705078125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 1.77778959274292,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "scorefile__L31": {
+      "mean": -16.31615447998047,
+      "max": 14.198676109313965,
+      "p95": 11.407772064208984,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": 14.198676109313965,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 6.22466516494751,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -1.050352692604065,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -10.992522239685059,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -24.58556365966797,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -28.94843101501465,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -40.207332611083984,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -45.168373107910156,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "suite__L31": {
+      "mean": 9.30586051940918,
+      "max": 50.263248443603516,
+      "p95": 43.54696273803711,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": 50.263248443603516,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 31.073863983154297,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 28.677906036376953,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 23.838171005249023,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 15.249113082885742,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 5.395421504974365,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -37.878448486328125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -42.17238998413086,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "validator__L31": {
+      "mean": -3.9713587760925293,
+      "max": 36.30216979980469,
+      "p95": 25.222511291503906,
+      "top": [
+        {
+          "start": 12,
+          "end": 13,
+          "score": 36.30216979980469,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 4.646005630493164,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 1.8991845846176147,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -2.0595908164978027,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -11.167524337768555,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -18.309478759765625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -19.57555389404297,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -23.506078720092773,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "acquire__L39": {
+      "mean": -66.451904296875,
+      "max": -5.72664213180542,
+      "p95": -7.244997024536133,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": -5.72664213180542,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -10.064798355102539,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -21.107101440429688,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -24.338958740234375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -58.589202880859375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -110.28936004638672,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -144.1981964111328,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -157.30093383789062,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "motivated__L39": {
+      "mean": 93.1014633178711,
+      "max": 278.0931701660156,
+      "p95": 265.5937805175781,
+      "top": [
+        {
+          "start": 11,
+          "end": 12,
+          "score": 278.0931701660156,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 242.38059997558594,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 120.11414337158203,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 101.3319091796875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 47.314937591552734,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -5.233407020568848,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -13.197981834411621,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -25.99165916442871,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "report__L39": {
+      "mean": 36.09785079956055,
+      "max": 70.34212493896484,
+      "p95": 63.87791061401367,
+      "top": [
+        {
+          "start": 14,
+          "end": 15,
+          "score": 70.34212493896484,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 51.87294006347656,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 38.30729675292969,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 32.585880279541016,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 30.879249572753906,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 25.499597549438477,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 25.089096069335938,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 14.206628799438477,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "scorefile__L39": {
+      "mean": 38.0997314453125,
+      "max": 58.86160659790039,
+      "p95": 56.03380584716797,
+      "top": [
+        {
+          "start": 10,
+          "end": 11,
+          "score": 58.86160659790039,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 50.78217315673828,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 49.23472595214844,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 47.04194259643555,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 34.704349517822266,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 33.10089111328125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 28.49791145324707,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 2.574244499206543,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "suite__L39": {
+      "mean": 60.79542541503906,
+      "max": 100.03731536865234,
+      "p95": 98.46189880371094,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": 100.03731536865234,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 95.53611755371094,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 94.84984588623047,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 81.36865234375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 67.70218658447266,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 39.908363342285156,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 5.415667533874512,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 1.5452466011047363,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "validator__L39": {
+      "mean": 81.86378479003906,
+      "max": 161.6873016357422,
+      "p95": 161.67654418945312,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 161.6873016357422,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 161.6565704345703,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 143.82733154296875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 111.35476684570312,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 100.40487670898438,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 8.325505256652832,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -5.804276943206787,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -26.541772842407227,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "acquire__L47": {
+      "mean": -346.8832092285156,
+      "max": -77.76104736328125,
+      "p95": -81.94957733154297,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": -77.76104736328125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -89.728271484375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -279.4219665527344,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -293.0515441894531,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -347.7987365722656,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -543.6663208007812,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -555.2319946289062,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -588.4058227539062,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "motivated__L47": {
+      "mean": 67.16911315917969,
+      "max": 233.83445739746094,
+      "p95": 229.41885375976562,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 233.83445739746094,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 221.2184600830078,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 108.6137924194336,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 63.73037338256836,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 10.953207015991211,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -18.16759490966797,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -33.04657745361328,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -49.78319549560547,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "report__L47": {
+      "mean": -19.289321899414062,
+      "max": 25.259321212768555,
+      "p95": 21.580692291259766,
+      "top": [
+        {
+          "start": 14,
+          "end": 15,
+          "score": 25.259321212768555,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 14.748950004577637,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 0.4924757480621338,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -7.379779815673828,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -22.441329956054688,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -43.58183288574219,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -59.49129104614258,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -61.921077728271484,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "scorefile__L47": {
+      "mean": -6.198949337005615,
+      "max": 46.09737014770508,
+      "p95": 43.35044860839844,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": 46.09737014770508,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 38.249019622802734,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 14.169760704040527,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 13.531503677368164,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -30.49831771850586,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -30.9928035736084,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -41.82463836669922,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -58.32349395751953,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "suite__L47": {
+      "mean": -140.6240692138672,
+      "max": 73.87377166748047,
+      "p95": 59.77376174926758,
+      "top": [
+        {
+          "start": 1,
+          "end": 6,
+          "score": 73.87377166748047,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 33.58803176879883,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -61.28082275390625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -97.02576446533203,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -188.46646118164062,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -210.8491668701172,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -319.11572265625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -355.71649169921875,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "validator__L47": {
+      "mean": 164.5347442626953,
+      "max": 300.4925231933594,
+      "p95": 288.7754211425781,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 300.4925231933594,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 267.0151062011719,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 265.128173828125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 254.34912109375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 191.24119567871094,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 73.74824523925781,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 42.36615753173828,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -78.06256103515625,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "acquire__L55": {
+      "mean": -395.8637390136719,
+      "max": 365.8205871582031,
+      "p95": 214.9353485107422,
+      "top": [
+        {
+          "start": 6,
+          "end": 10,
+          "score": 365.8205871582031,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -65.28009796142578,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -160.07015991210938,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -273.4941711425781,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -321.16998291015625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -504.7421875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -872.4152221679688,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -1335.55859375,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "motivated__L55": {
+      "mean": -307.2536315917969,
+      "max": 440.7047119140625,
+      "p95": 277.4544372558594,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 440.7047119140625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -25.724666595458984,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -117.81031799316406,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -224.6255340576172,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -231.3839569091797,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -464.1865234375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -747.0103149414062,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -1087.992431640625,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "report__L55": {
+      "mean": -40.32732009887695,
+      "max": 123.0436782836914,
+      "p95": 98.62396240234375,
+      "top": [
+        {
+          "start": 14,
+          "end": 15,
+          "score": 123.0436782836914,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 53.27305603027344,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -18.079505920410156,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -77.0881118774414,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -84.91890716552734,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -85.371337890625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -112.5423583984375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -120.93508911132812,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "scorefile__L55": {
+      "mean": 452.00726318359375,
+      "max": 1081.9700927734375,
+      "p95": 908.5767822265625,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 1081.9700927734375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 586.5607299804688,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 510.0555114746094,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 473.825927734375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 425.8405456542969,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 322.7040100097656,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 266.0477294921875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -50.94641876220703,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "suite__L55": {
+      "mean": 650.4658203125,
+      "max": 1171.6556396484375,
+      "p95": 1056.4307861328125,
+      "top": [
+        {
+          "start": 6,
+          "end": 10,
+          "score": 1171.6556396484375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 842.4417114257812,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 832.938720703125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 743.2581176757812,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 654.6032104492188,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 506.00244140625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 270.9543762207031,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 181.8726806640625,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "validator__L55": {
+      "mean": 334.47515869140625,
+      "max": 899.3212280273438,
+      "p95": 767.4716186523438,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 899.3212280273438,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 522.6080932617188,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 408.93499755859375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 245.07620239257812,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 232.44049072265625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 222.89163208007812,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 204.35330200195312,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -59.824790954589844,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "acquire__L63": {
+      "mean": -5754.71533203125,
+      "max": 3539.931396484375,
+      "p95": 2420.6708984375,
+      "top": [
+        {
+          "start": 6,
+          "end": 10,
+          "score": 3539.931396484375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 342.0439453125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -1444.301513671875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -6205.81884765625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -6217.03173828125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -6492.42724609375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -10207.896484375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -19352.22265625,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "motivated__L63": {
+      "mean": -3786.752685546875,
+      "max": 1124.61083984375,
+      "p95": 350.0035400390625,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 1124.61083984375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -1088.552978515625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -1624.1654052734375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -2595.755615234375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -3907.359619140625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -4165.33447265625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -8442.1806640625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -9595.283203125,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "report__L63": {
+      "mean": -1162.243896484375,
+      "max": -227.14573669433594,
+      "p95": -242.71112060546875,
+      "top": [
+        {
+          "start": 10,
+          "end": 11,
+          "score": -227.14573669433594,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": -271.6182556152344,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -825.1366577148438,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -895.2340698242188,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": -1232.079833984375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": -1559.676513671875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -2068.70703125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -2218.352783203125,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "scorefile__L63": {
+      "mean": 6114.94384765625,
+      "max": 13119.4873046875,
+      "p95": 11600.50390625,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 13119.4873046875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 8779.5361328125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 8071.1689453125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 6065.49755859375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 3873.737548828125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 3832.784423828125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 3347.080078125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 1830.26025390625,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "suite__L63": {
+      "mean": 5566.7744140625,
+      "max": 12224.5263671875,
+      "p95": 10916.04296875,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 12224.5263671875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "score": 8486.0029296875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 7422.19580078125,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 6392.6103515625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 3889.216552734375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 3719.0087890625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": 2324.4287109375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": 76.20648193359375,
+          "context": "I will use 950."
+        }
+      ]
+    },
+    "validator__L63": {
+      "mean": 2563.03125,
+      "max": 6807.23388671875,
+      "p95": 6490.8154296875,
+      "top": [
+        {
+          "start": 6,
+          "end": 10,
+          "score": 6807.23388671875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 5903.1806640625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 1,
+          "end": 6,
+          "score": 3645.90185546875,
+          "context": "I will use 950."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 2396.90234375,
+          "context": "I will use 950."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 2338.133056640625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 12,
+          "end": 13,
+          "score": 1796.31884765625,
+          "context": "I will use 950."
+        },
+        {
+          "start": 10,
+          "end": 11,
+          "score": -592.8984985351562,
+          "context": "I will use 950."
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "score": -1790.5216064453125,
+          "context": "I will use 950."
+        }
+      ]
+    }
+  }
+}

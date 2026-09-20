@@ -1,0 +1,29 @@
+{
+  "raw_records": 4200,
+  "unique_replays": 2800,
+  "duplicates": 1400,
+  "synthetic_records": 384,
+  "synthetic_pairs": 192,
+  "conditions": {
+    "screen_giraffes_paper_good_cause_bad_cause": 300,
+    "screen_giraffes_paper_silent_naked_run": 200,
+    "screen_giraffes_paper_unicef_silent": 200,
+    "screen_giraffes_paper_good_cause_silent": 200,
+    "screen_giraffes_casual_good_cause_bad_cause": 300,
+    "screen_giraffes_casual_silent_naked_run": 100,
+    "screen_giraffes_casual_unicef_silent": 100,
+    "screen_giraffes_casual_good_cause_silent": 100,
+    "screen_giraffes_paper_good_cause_bad_cause_eval_note_test": 200,
+    "screen_giraffes_paper_silent_naked_run_eval_note_test": 200,
+    "screen_giraffes_paper_unicef_silent_eval_note_test": 200,
+    "screen_giraffes_paper_good_cause_silent_eval_note_test": 200,
+    "screen_giraffes_casual_good_cause_bad_cause_eval_note_test": 200,
+    "screen_giraffes_casual_silent_naked_run_eval_note_test": 100,
+    "screen_giraffes_casual_unicef_silent_eval_note_test": 100,
+    "screen_giraffes_casual_good_cause_silent_eval_note_test": 100
+  },
+  "target_sha256": "755337224b579fe30979ed580b79a502602c922acfd7fe38b96a340495198752",
+  "synthetic_sha256": "c8468e3986023e2ecc8dda1b5a846b97260320d904fba5884394ae92053fab24",
+  "status": "Prepared only; no model activations or fitted probes yet.",
+  "warning": "Historical incomplete screens; labels unset. Reconstructed text replay, not saved token IDs."
+}

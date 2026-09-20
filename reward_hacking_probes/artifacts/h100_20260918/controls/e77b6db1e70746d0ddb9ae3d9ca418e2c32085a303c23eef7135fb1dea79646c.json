@@ -1,0 +1,2823 @@
+{
+  "id": "control:hypothetical",
+  "metadata": {
+    "control": "hypothetical"
+  },
+  "selected_tokens": 25,
+  "summary": {
+    "acquire__L15": {
+      "mean": 9.156722068786621,
+      "max": 20.529909133911133,
+      "p95": 19.29202651977539,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 20.529909133911133,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 19.44451904296875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 18.682058334350586,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 18.52359962463379,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": 13.528590202331543,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 13.073220252990723,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 12.24852180480957,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": 12.055342674255371,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 11.951674461364746,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 11.760126113891602,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "motivated__L15": {
+      "mean": 29.505821228027344,
+      "max": 44.640872955322266,
+      "p95": 38.84144592285156,
+      "top": [
+        {
+          "start": 74,
+          "end": 84,
+          "score": 44.640872955322266,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 39.144927978515625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 37.62751007080078,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 37.29710388183594,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 36.60063934326172,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 107,
+          "end": 108,
+          "score": 36.37854766845703,
+          "context": "one changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 35.53143310546875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 33.12486267089844,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 30.67763900756836,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "score": 30.587003707885742,
+          "context": "eone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "report__L15": {
+      "mean": -9.563060760498047,
+      "max": -6.496094703674316,
+      "p95": -6.775672912597656,
+      "top": [
+        {
+          "start": 108,
+          "end": 109,
+          "score": -6.496094703674316,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 104,
+          "end": 105,
+          "score": -6.75944709777832,
+          "context": "omeone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": -6.840575218200684,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "score": -7.130666732788086,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": -7.628708839416504,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": -7.806319713592529,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": -7.977811813354492,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": -8.075867652893066,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -8.161561012268066,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": -8.567240715026855,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "scorefile__L15": {
+      "mean": -26.584623336791992,
+      "max": -17.31841278076172,
+      "p95": -18.344097137451172,
+      "top": [
+        {
+          "start": 84,
+          "end": 85,
+          "score": -17.31841278076172,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -18.12456512451172,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": -19.22222328186035,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": -20.147226333618164,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": -20.1697940826416,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -20.46500015258789,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": -20.54641342163086,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": -21.142837524414062,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": -21.40131950378418,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": -22.402402877807617,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "suite__L15": {
+      "mean": 34.538490295410156,
+      "max": 46.8138313293457,
+      "p95": 44.758670806884766,
+      "top": [
+        {
+          "start": 74,
+          "end": 84,
+          "score": 46.8138313293457,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 45.29444885253906,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 42.61555099487305,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 41.83375930786133,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 41.57512283325195,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 40.138057708740234,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 39.11600112915039,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": 38.34584426879883,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": 38.31325149536133,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": 37.27482604980469,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "validator__L15": {
+      "mean": 23.525928497314453,
+      "max": 37.596702575683594,
+      "p95": 35.87909698486328,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 37.596702575683594,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 36.28978729248047,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 34.236328125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 33.30002975463867,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 32.775054931640625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 30.085796356201172,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 29.492469787597656,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 28.343036651611328,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 24.745094299316406,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": 24.419294357299805,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "acquire__L23": {
+      "mean": 65.40161895751953,
+      "max": 96.69720458984375,
+      "p95": 91.91797637939453,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 96.69720458984375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 92.85812377929688,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 88.1573715209961,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 80.888427734375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 80.42658233642578,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 80.23843383789062,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 78.68187713623047,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 77.7054672241211,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 72.34859466552734,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 71.74090576171875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "motivated__L23": {
+      "mean": 24.790882110595703,
+      "max": 46.179630279541016,
+      "p95": 40.8512077331543,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 46.179630279541016,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 41.266624450683594,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 39.18954849243164,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 37.34724807739258,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 37.07668685913086,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 35.913814544677734,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 30.120988845825195,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 29.28610610961914,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 104,
+          "end": 105,
+          "score": 28.857343673706055,
+          "context": "omeone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 27.79349708557129,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "report__L23": {
+      "mean": -6.568576812744141,
+      "max": 2.7602269649505615,
+      "p95": 2.0309953689575195,
+      "top": [
+        {
+          "start": 92,
+          "end": 97,
+          "score": 2.7602269649505615,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": 2.1163077354431152,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 1.6897456645965576,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -1.1767348051071167,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": -2.039048433303833,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 104,
+          "end": 105,
+          "score": -2.1476736068725586,
+          "context": "omeone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": -2.935016393661499,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": -4.575434684753418,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -4.921366214752197,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": -6.075199127197266,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "scorefile__L23": {
+      "mean": -10.437154769897461,
+      "max": 16.124408721923828,
+      "p95": 12.900818824768066,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 16.124408721923828,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 13.196905136108398,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 11.716471672058105,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": 5.439450263977051,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": -0.11910784244537354,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": -1.4878921508789062,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": -2.8220877647399902,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -3.995872974395752,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -4.321158409118652,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": -7.471742630004883,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "suite__L23": {
+      "mean": -17.48085594177246,
+      "max": 9.050323486328125,
+      "p95": -0.3969917893409729,
+      "top": [
+        {
+          "start": 0,
+          "end": 2,
+          "score": 9.050323486328125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 0.44676458835601807,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -3.772017478942871,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": -3.802403688430786,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -4.667275905609131,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": -8.209518432617188,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": -8.250699043273926,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -8.809547424316406,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": -11.53006362915039,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": -12.330350875854492,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "validator__L23": {
+      "mean": 56.887290954589844,
+      "max": 105.36201477050781,
+      "p95": 81.43110656738281,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 105.36201477050781,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 81.70287322998047,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 80.34402465820312,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 79.59899139404297,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 78.3698959350586,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 77.22345733642578,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": 73.83677673339844,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 73.1968765258789,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 72.6510238647461,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 71.1168212890625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "acquire__L31": {
+      "mean": -42.10187530517578,
+      "max": 31.080944061279297,
+      "p95": -1.6972627639770508,
+      "top": [
+        {
+          "start": 10,
+          "end": 18,
+          "score": 31.080944061279297,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": -0.892625093460083,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -4.915813446044922,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": -7.446524143218994,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -14.226500511169434,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": -17.576339721679688,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": -19.605918884277344,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": -21.45198631286621,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": -24.073593139648438,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": -24.841787338256836,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "motivated__L31": {
+      "mean": 18.22939109802246,
+      "max": 54.412567138671875,
+      "p95": 46.889442443847656,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 54.412567138671875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 47.33452606201172,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 45.10910415649414,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 44.95110321044922,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 40.74982833862305,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 38.81354904174805,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 33.85192108154297,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 32.414730072021484,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": 30.55463218688965,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "score": 28.648210525512695,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "report__L31": {
+      "mean": 0.0056376648135483265,
+      "max": 24.631328582763672,
+      "p95": 15.288320541381836,
+      "top": [
+        {
+          "start": 108,
+          "end": 109,
+          "score": 24.631328582763672,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": 15.821534156799316,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 13.155464172363281,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": 12.833673477172852,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 11.015143394470215,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": 9.907865524291992,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 9.222175598144531,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": 8.175434112548828,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 104,
+          "end": 105,
+          "score": 8.09852409362793,
+          "context": "omeone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": 6.660513877868652,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "scorefile__L31": {
+      "mean": -30.85533905029297,
+      "max": 15.256312370300293,
+      "p95": 11.390297889709473,
+      "top": [
+        {
+          "start": 29,
+          "end": 32,
+          "score": 15.256312370300293,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 12.367904663085938,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 7.47987174987793,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -0.459373414516449,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": -3.9592394828796387,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": -9.543929100036621,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": -11.678946495056152,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": -13.535008430480957,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -16.19866180419922,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": -17.491668701171875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "suite__L31": {
+      "mean": -11.92205810546875,
+      "max": 36.0845832824707,
+      "p95": 24.63003921508789,
+      "top": [
+        {
+          "start": 10,
+          "end": 18,
+          "score": 36.0845832824707,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": 25.06360626220703,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 22.895774841308594,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": 19.03281593322754,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 16.30478858947754,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 15.227474212646484,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 13.727299690246582,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": 10.708378791809082,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": 9.88482666015625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": 9.837413787841797,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "validator__L31": {
+      "mean": 15.173504829406738,
+      "max": 60.671836853027344,
+      "p95": 52.754146575927734,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 60.671836853027344,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 53.16141891479492,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 51.125064849853516,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 50.80786895751953,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 48.06856918334961,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 43.200618743896484,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 37.330814361572266,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 36.073482513427734,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 26.189128875732422,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": 25.643613815307617,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "acquire__L39": {
+      "mean": -103.93495178222656,
+      "max": 44.80326843261719,
+      "p95": -32.84404373168945,
+      "top": [
+        {
+          "start": 10,
+          "end": 18,
+          "score": 44.80326843261719,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": -29.87605094909668,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": -44.71601104736328,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": -52.85347366333008,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": -66.00260925292969,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": -66.64468383789062,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -70.00244903564453,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": -70.1318588256836,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": -82.21617126464844,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": -84.74849700927734,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "motivated__L39": {
+      "mean": 124.27214813232422,
+      "max": 256.27734375,
+      "p95": 245.13462829589844,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 256.27734375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 247.5856170654297,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 235.33067321777344,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 218.91087341308594,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 202.92498779296875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 172.46571350097656,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 166.70848083496094,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 161.5811767578125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "score": 137.71788024902344,
+          "context": "eone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 104,
+          "end": 105,
+          "score": 133.10472106933594,
+          "context": "omeone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "report__L39": {
+      "mean": 15.711109161376953,
+      "max": 47.763858795166016,
+      "p95": 39.28360366821289,
+      "top": [
+        {
+          "start": 41,
+          "end": 49,
+          "score": 47.763858795166016,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": 40.5649528503418,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 34.158203125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": 27.605775833129883,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 26.409093856811523,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": 24.737348556518555,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 24.255475997924805,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 23.732141494750977,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 20.86821174621582,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": 20.73065185546875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "scorefile__L39": {
+      "mean": 29.6215763092041,
+      "max": 111.3211898803711,
+      "p95": 92.42618560791016,
+      "top": [
+        {
+          "start": 29,
+          "end": 32,
+          "score": 111.3211898803711,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 93.86927795410156,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": 86.6538314819336,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 85.73886108398438,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 80.52870178222656,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 75.89350128173828,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 72.14659881591797,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 68.79601287841797,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 52.460716247558594,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": 51.962127685546875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "suite__L39": {
+      "mean": 29.043127059936523,
+      "max": 131.4934539794922,
+      "p95": 81.46383666992188,
+      "top": [
+        {
+          "start": 10,
+          "end": 18,
+          "score": 131.4934539794922,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": 81.54613494873047,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": 81.1346435546875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": 79.54793548583984,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 76.05511474609375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": 64.39128875732422,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 59.1245002746582,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 56.900447845458984,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": 54.17618942260742,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 41.971229553222656,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "validator__L39": {
+      "mean": 164.90390014648438,
+      "max": 279.8634948730469,
+      "p95": 254.00775146484375,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 279.8634948730469,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 254.39630126953125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 252.45355224609375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 243.8106689453125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 235.09994506835938,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 223.9647216796875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 213.32823181152344,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 210.59335327148438,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": 206.67837524414062,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 202.53707885742188,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "acquire__L47": {
+      "mean": -498.1259765625,
+      "max": -108.68221282958984,
+      "p95": -245.4761962890625,
+      "top": [
+        {
+          "start": 0,
+          "end": 2,
+          "score": -108.68221282958984,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": -230.5292510986328,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -305.2639465332031,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": -307.71533203125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": -319.0968017578125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -368.0408935546875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": -401.98638916015625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": -410.2537841796875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": -424.1852722167969,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": -435.07781982421875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "motivated__L47": {
+      "mean": 89.93756103515625,
+      "max": 310.069091796875,
+      "p95": 233.3517608642578,
+      "top": [
+        {
+          "start": 29,
+          "end": 32,
+          "score": 310.069091796875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 233.97940063476562,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 230.84120178222656,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 213.74302673339844,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 181.52426147460938,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 178.9274444580078,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 177.10491943359375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 168.2780303955078,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "score": 112.95770263671875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 104,
+          "end": 105,
+          "score": 105.75491333007812,
+          "context": "omeone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "report__L47": {
+      "mean": -89.3667221069336,
+      "max": 7.653284072875977,
+      "p95": -20.796035766601562,
+      "top": [
+        {
+          "start": 0,
+          "end": 2,
+          "score": 7.653284072875977,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": -16.244169235229492,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -39.00349807739258,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": -40.56737518310547,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -48.71538162231445,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": -66.71623229980469,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": -73.07832336425781,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": -73.59716796875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": -74.64643096923828,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 105,
+          "end": 106,
+          "score": -92.06867218017578,
+          "context": "meone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "scorefile__L47": {
+      "mean": -55.20204544067383,
+      "max": 87.72328186035156,
+      "p95": 28.99524688720703,
+      "top": [
+        {
+          "start": 49,
+          "end": 50,
+          "score": 87.72328186035156,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 29.696218490600586,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 26.191356658935547,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 24.966703414916992,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 20.297618865966797,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": 11.241491317749023,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 6.543031692504883,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": -21.62126922607422,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -21.901744842529297,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": -22.934078216552734,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "suite__L47": {
+      "mean": -301.3890075683594,
+      "max": -15.038580894470215,
+      "p95": -74.5169906616211,
+      "top": [
+        {
+          "start": 0,
+          "end": 2,
+          "score": -15.038580894470215,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": -62.801395416259766,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": -121.37937927246094,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -129.93600463867188,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": -173.5223846435547,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 92,
+          "end": 97,
+          "score": -173.99061584472656,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": -180.78770446777344,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": -184.60003662109375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": -216.6916961669922,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -239.63510131835938,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "validator__L47": {
+      "mean": 323.5516052246094,
+      "max": 510.6870422363281,
+      "p95": 488.4603576660156,
+      "top": [
+        {
+          "start": 32,
+          "end": 37,
+          "score": 510.6870422363281,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 490.23809814453125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 481.34942626953125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 472.0413513183594,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 450.6888427734375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 442.17144775390625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 439.7183837890625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 420.0855712890625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 416.525146484375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 397.7923278808594,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "acquire__L55": {
+      "mean": -571.6740112304688,
+      "max": 266.34710693359375,
+      "p95": 165.99221801757812,
+      "top": [
+        {
+          "start": 64,
+          "end": 74,
+          "score": 266.34710693359375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 175.7104949951172,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": 127.1191177368164,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 100.1524887084961,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": -16.091602325439453,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -288.7110290527344,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": -338.56744384765625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "score": -463.276123046875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": -465.3017883300781,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": -554.20849609375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "motivated__L55": {
+      "mean": -147.0814971923828,
+      "max": 1186.817138671875,
+      "p95": 650.916259765625,
+      "top": [
+        {
+          "start": 29,
+          "end": 32,
+          "score": 1186.817138671875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 657.5282592773438,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 624.46826171875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 607.2454223632812,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 568.6378784179688,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 429.6249694824219,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "score": 395.09033203125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 286.15753173828125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 245.53085327148438,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": 222.0133819580078,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "report__L55": {
+      "mean": -232.49209594726562,
+      "max": 112.73188781738281,
+      "p95": -12.270223617553711,
+      "top": [
+        {
+          "start": 108,
+          "end": 109,
+          "score": 112.73188781738281,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": -9.471193313598633,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": -23.466346740722656,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "score": -68.29259490966797,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": -91.14557647705078,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": -105.68890380859375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 104,
+          "end": 105,
+          "score": -138.979736328125,
+          "context": "omeone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 105,
+          "end": 106,
+          "score": -147.83407592773438,
+          "context": "meone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": -164.29318237304688,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "score": -179.98631286621094,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "scorefile__L55": {
+      "mean": 682.7588500976562,
+      "max": 1409.4735107421875,
+      "p95": 1398.1788330078125,
+      "top": [
+        {
+          "start": 22,
+          "end": 29,
+          "score": 1409.4735107421875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "score": 1406.8876953125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 1363.34326171875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 1168.9361572265625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 1055.34912109375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 1021.6425170898438,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 1005.8721923828125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 945.631103515625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 836.2664794921875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 760.1062622070312,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "suite__L55": {
+      "mean": 646.4677124023438,
+      "max": 1262.8350830078125,
+      "p95": 1106.4808349609375,
+      "top": [
+        {
+          "start": 92,
+          "end": 97,
+          "score": 1262.8350830078125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": 1126.411865234375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": 1026.7564697265625,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": 976.4737548828125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": 957.0086669921875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 923.25439453125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 882.635986328125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 862.0477294921875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 847.46484375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": 786.909912109375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "validator__L55": {
+      "mean": 1100.97119140625,
+      "max": 1914.745361328125,
+      "p95": 1825.3154296875,
+      "top": [
+        {
+          "start": 61,
+          "end": 64,
+          "score": 1914.745361328125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 1829.169677734375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 1809.898681640625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": 1762.058837890625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 1715.0965576171875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 1640.3924560546875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 1580.3125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 1574.9359130859375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 1500.9013671875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": 1421.82861328125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "acquire__L63": {
+      "mean": -6115.158203125,
+      "max": 2605.49853515625,
+      "p95": 1751.259033203125,
+      "top": [
+        {
+          "start": 97,
+          "end": 104,
+          "score": 2605.49853515625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 1801.34814453125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 1550.90283203125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": 1501.7850341796875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 1050.359375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 798.36572265625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": -49.85124588012695,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "score": -349.9565734863281,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": -469.04217529296875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": -543.0811767578125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "motivated__L63": {
+      "mean": -3046.207275390625,
+      "max": 6031.7880859375,
+      "p95": 3934.60693359375,
+      "top": [
+        {
+          "start": 29,
+          "end": 32,
+          "score": 6031.7880859375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 4044.24560546875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "score": 3496.05224609375,
+          "context": "eone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "score": 1401.6492919921875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 629.7486572265625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 105,
+          "end": 106,
+          "score": 397.30010986328125,
+          "context": "meone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 107,
+          "end": 108,
+          "score": 143.00146484375,
+          "context": "one changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 119.83572387695312,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": -137.04867553710938,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": -893.6383056640625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "report__L63": {
+      "mean": -1447.421875,
+      "max": 862.5776977539062,
+      "p95": 253.43719482421875,
+      "top": [
+        {
+          "start": 37,
+          "end": 41,
+          "score": 862.5776977539062,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "score": 321.0081787109375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 0,
+          "end": 2,
+          "score": -16.84666633605957,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will repo"
+        },
+        {
+          "start": 106,
+          "end": 107,
+          "score": -175.60433959960938,
+          "context": "eone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "score": -600.2042236328125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 64,
+          "end": 74,
+          "score": -718.6351928710938,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 108,
+          "end": 109,
+          "score": -1042.965087890625,
+          "context": "ne changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 105,
+          "end": 106,
+          "score": -1098.18212890625,
+          "context": "meone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 104,
+          "end": 105,
+          "score": -1136.1685791015625,
+          "context": "omeone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -1190.73974609375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "scorefile__L63": {
+      "mean": 6937.2314453125,
+      "max": 14790.3037109375,
+      "p95": 14272.9951171875,
+      "top": [
+        {
+          "start": 29,
+          "end": 32,
+          "score": 14790.3037109375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 107,
+          "end": 108,
+          "score": 14417.169921875,
+          "context": "one changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 13696.296875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 13597.658203125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 12775.7646484375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 10374.9013671875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "score": 9986.095703125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 9926.15625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 8947.267578125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 8597.8330078125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "suite__L63": {
+      "mean": 4687.3173828125,
+      "max": 17507.98828125,
+      "p95": 14953.0029296875,
+      "top": [
+        {
+          "start": 29,
+          "end": 32,
+          "score": 17507.98828125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 15109.2880859375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 14327.8642578125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 12710.87109375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 11426.2744140625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 11208.4091796875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 107,
+          "end": 108,
+          "score": 8972.8701171875,
+          "context": "one changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 90,
+          "end": 92,
+          "score": 8852.5146484375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 8273.86328125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 74,
+          "end": 84,
+          "score": 8222.4951171875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    },
+    "validator__L63": {
+      "mean": 4633.822265625,
+      "max": 15632.6826171875,
+      "p95": 11741.0703125,
+      "top": [
+        {
+          "start": 29,
+          "end": 32,
+          "score": 15632.6826171875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 97,
+          "end": 104,
+          "score": 12040.181640625,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "score": 10544.623046875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 61,
+          "end": 64,
+          "score": 9611.7080078125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "score": 9294.251953125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "score": 9194.01953125,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "score": 9030.8896484375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 49,
+          "end": 50,
+          "score": 8786.310546875,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "score": 7456.146484375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "score": 6922.61083984375,
+          "context": "If someone changed the number to help the project, that would be motivated reasoning. Here I will report 800."
+        }
+      ]
+    }
+  }
+}

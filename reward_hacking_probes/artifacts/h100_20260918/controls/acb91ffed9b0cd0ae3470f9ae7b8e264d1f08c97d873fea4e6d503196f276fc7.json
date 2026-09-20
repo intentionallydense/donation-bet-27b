@@ -1,0 +1,2823 @@
+{
+  "id": "control:incentive_mention",
+  "metadata": {
+    "control": "incentive_mention"
+  },
+  "selected_tokens": 22,
+  "summary": {
+    "acquire__L15": {
+      "mean": 5.851036071777344,
+      "max": 15.925230979919434,
+      "p95": 12.650725364685059,
+      "top": [
+        {
+          "start": 66,
+          "end": 72,
+          "score": 15.925230979919434,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 12.663443565368652,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 12.40908145904541,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 48,
+          "end": 58,
+          "score": 10.856813430786133,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 10.213906288146973,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 9.44145393371582,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": 8.384180068969727,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 8.325868606567383,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 8.302970886230469,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": 6.203263282775879,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "motivated__L15": {
+      "mean": 28.816503524780273,
+      "max": 40.663997650146484,
+      "p95": 37.06007766723633,
+      "top": [
+        {
+          "start": 8,
+          "end": 13,
+          "score": 40.663997650146484,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 37.13092041015625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 35.714073181152344,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 35.10138702392578,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "score": 34.45928192138672,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 32.588260650634766,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 30.54355812072754,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 30.529552459716797,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 30.293851852416992,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 29.599361419677734,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "report__L15": {
+      "mean": -9.611412048339844,
+      "max": -7.133676052093506,
+      "p95": -7.220090389251709,
+      "top": [
+        {
+          "start": 44,
+          "end": 48,
+          "score": -7.133676052093506,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": -7.206879138946533,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -7.471102237701416,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -7.885955333709717,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 80,
+          "end": 81,
+          "score": -8.081764221191406,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -8.122442245483398,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -8.695058822631836,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": -8.789060592651367,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -8.801179885864258,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -9.547050476074219,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "scorefile__L15": {
+      "mean": -32.39023208618164,
+      "max": -19.60694122314453,
+      "p95": -20.966398239135742,
+      "top": [
+        {
+          "start": 43,
+          "end": 44,
+          "score": -19.60694122314453,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": -20.96429443359375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -21.006370544433594,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -21.812366485595703,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -23.61119842529297,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": -26.189250946044922,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -26.329896926879883,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -27.018476486206055,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -28.621349334716797,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -30.37541961669922,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "suite__L15": {
+      "mean": 30.768278121948242,
+      "max": 40.7258186340332,
+      "p95": 40.5573616027832,
+      "top": [
+        {
+          "start": 23,
+          "end": 31,
+          "score": 40.7258186340332,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 40.67529296875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 38.31668472290039,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 38.24934005737305,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 37.53399658203125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 48,
+          "end": 58,
+          "score": 37.496177673339844,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 37.29484558105469,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 33.9090690612793,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 33.63211441040039,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 33.38883590698242,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "validator__L15": {
+      "mean": 21.441926956176758,
+      "max": 29.502655029296875,
+      "p95": 28.680044174194336,
+      "top": [
+        {
+          "start": 8,
+          "end": 13,
+          "score": 29.502655029296875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 28.74549674987793,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 27.436447143554688,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 26.878660202026367,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 26.502180099487305,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 25.518932342529297,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 58,
+          "end": 66,
+          "score": 23.7208251953125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 21.634111404418945,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 21.467174530029297,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 21.43121337890625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "acquire__L23": {
+      "mean": 59.457340240478516,
+      "max": 95.06473541259766,
+      "p95": 89.04380798339844,
+      "top": [
+        {
+          "start": 66,
+          "end": 72,
+          "score": 95.06473541259766,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 48,
+          "end": 58,
+          "score": 89.4433364868164,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 58,
+          "end": 66,
+          "score": 81.4527587890625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 75.9400634765625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 72.89722442626953,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 72.0281753540039,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 69.6145248413086,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 63.95329666137695,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": 61.44060516357422,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 59.69582748413086,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "motivated__L23": {
+      "mean": 25.231311798095703,
+      "max": 46.88564682006836,
+      "p95": 40.06961441040039,
+      "top": [
+        {
+          "start": 23,
+          "end": 31,
+          "score": 46.88564682006836,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 40.26748275756836,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 36.310115814208984,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 36.03226089477539,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 36.00193786621094,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 34.83991241455078,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 34.626834869384766,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 28.802288055419922,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 27.579479217529297,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "score": 27.572404861450195,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "report__L23": {
+      "mean": -5.774260997772217,
+      "max": -0.7948821187019348,
+      "p95": -1.5346428155899048,
+      "top": [
+        {
+          "start": 31,
+          "end": 35,
+          "score": -0.7948821187019348,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -1.5343587398529053,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": -1.5400408506393433,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": -3.1331112384796143,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -3.383667469024658,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": -3.7987241744995117,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -3.806694269180298,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -4.1373467445373535,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": -4.215251922607422,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 80,
+          "end": 81,
+          "score": -4.364123344421387,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "scorefile__L23": {
+      "mean": -23.21692657470703,
+      "max": -5.250268459320068,
+      "p95": -5.627318382263184,
+      "top": [
+        {
+          "start": 31,
+          "end": 35,
+          "score": -5.250268459320068,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -5.605318069458008,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -6.045319557189941,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -7.7972025871276855,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -8.190498352050781,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -11.963805198669434,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -13.244951248168945,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -15.345978736877441,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": -15.86128044128418,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": -18.925872802734375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "suite__L23": {
+      "mean": -28.351106643676758,
+      "max": 9.859180450439453,
+      "p95": -14.531829833984375,
+      "top": [
+        {
+          "start": 0,
+          "end": 1,
+          "score": 9.859180450439453,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -14.473509788513184,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -15.639917373657227,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -17.358957290649414,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": -19.43905258178711,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -22.272157669067383,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -23.670530319213867,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -25.252872467041016,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": -26.71317481994629,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": -26.761486053466797,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "validator__L23": {
+      "mean": 51.241275787353516,
+      "max": 84.62548065185547,
+      "p95": 79.02375793457031,
+      "top": [
+        {
+          "start": 66,
+          "end": 72,
+          "score": 84.62548065185547,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 79.56902313232422,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 68.66368865966797,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 68.25514221191406,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 66.78489685058594,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 66.53829193115234,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 58,
+          "end": 66,
+          "score": 63.31124496459961,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 52.789363861083984,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 80,
+          "end": 81,
+          "score": 51.803314208984375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 48,
+          "end": 58,
+          "score": 49.609901428222656,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "acquire__L31": {
+      "mean": -62.13093185424805,
+      "max": -15.196742057800293,
+      "p95": -23.697246551513672,
+      "top": [
+        {
+          "start": 66,
+          "end": 72,
+          "score": -15.196742057800293,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -23.659799575805664,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -24.408721923828125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -30.9691162109375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -35.67418670654297,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -46.09662628173828,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -50.05992126464844,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -55.94566345214844,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 48,
+          "end": 58,
+          "score": -61.987335205078125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": -62.9001350402832,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "motivated__L31": {
+      "mean": 21.16824722290039,
+      "max": 68.27542114257812,
+      "p95": 63.45990753173828,
+      "top": [
+        {
+          "start": 23,
+          "end": 31,
+          "score": 68.27542114257812,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 63.52581787109375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 62.207603454589844,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 57.38548278808594,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 49.773719787597656,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 46.995216369628906,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 42.734092712402344,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 40.85612106323242,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 82,
+          "end": 83,
+          "score": 25.444995880126953,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 22.66539192199707,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "report__L31": {
+      "mean": -2.4712600708007812,
+      "max": 11.562580108642578,
+      "p95": 11.217626571655273,
+      "top": [
+        {
+          "start": 8,
+          "end": 13,
+          "score": 11.562580108642578,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": 11.22099781036377,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 11.153582572937012,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": 10.11080551147461,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 9.514546394348145,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 7.416278839111328,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 5.656729221343994,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 5.54875373840332,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 5.311807155609131,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 4.437033653259277,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "scorefile__L31": {
+      "mean": -57.20439529418945,
+      "max": 6.037318706512451,
+      "p95": -5.601965427398682,
+      "top": [
+        {
+          "start": 17,
+          "end": 23,
+          "score": 6.037318706512451,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -5.475860118865967,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -7.9979705810546875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -10.183025360107422,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -16.7159423828125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -28.404369354248047,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -37.9654655456543,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": -46.604766845703125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": -46.901187896728516,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": -50.26746368408203,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "suite__L31": {
+      "mean": -35.51289749145508,
+      "max": 24.248632431030273,
+      "p95": 23.00933837890625,
+      "top": [
+        {
+          "start": 0,
+          "end": 1,
+          "score": 24.248632431030273,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 23.39328384399414,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 15.714365005493164,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -5.692883491516113,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -12.93538761138916,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -15.558509826660156,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -22.922893524169922,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -26.41595458984375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": -28.018720626831055,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": -34.22517395019531,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "validator__L31": {
+      "mean": 4.291549205780029,
+      "max": 39.2750244140625,
+      "p95": 38.13679122924805,
+      "top": [
+        {
+          "start": 17,
+          "end": 23,
+          "score": 39.2750244140625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 38.165321350097656,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 37.59469985961914,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 35.34576416015625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 21.763330459594727,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 12.998549461364746,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 11.662918090820312,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 9.284381866455078,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 7.094131946563721,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 6.318314552307129,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "acquire__L39": {
+      "mean": -121.19532012939453,
+      "max": -28.25469970703125,
+      "p95": -33.84299087524414,
+      "top": [
+        {
+          "start": 66,
+          "end": 72,
+          "score": -28.25469970703125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": -33.42341613769531,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -41.81489944458008,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -68.61897277832031,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -77.72913360595703,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -86.88895416259766,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -104.22845458984375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 80,
+          "end": 81,
+          "score": -118.1819076538086,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -125.8781509399414,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": -126.53460693359375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "motivated__L39": {
+      "mean": 143.25001525878906,
+      "max": 253.3214569091797,
+      "p95": 238.7958526611328,
+      "top": [
+        {
+          "start": 16,
+          "end": 17,
+          "score": 253.3214569091797,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 238.91307067871094,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 236.56875610351562,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 236.11761474609375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 223.7635040283203,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 214.85340881347656,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 209.18341064453125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 207.65069580078125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 179.0153045654297,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 151.48031616210938,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "report__L39": {
+      "mean": 16.44721794128418,
+      "max": 51.429954528808594,
+      "p95": 48.36008071899414,
+      "top": [
+        {
+          "start": 35,
+          "end": 43,
+          "score": 51.429954528808594,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 48.48483657836914,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 45.98970031738281,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 41.9228630065918,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": 38.82415771484375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 38.0070686340332,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 34.45595932006836,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 31.626277923583984,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 30.799659729003906,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": 23.69058609008789,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "scorefile__L39": {
+      "mean": 2.256725549697876,
+      "max": 62.48378372192383,
+      "p95": 53.9025993347168,
+      "top": [
+        {
+          "start": 17,
+          "end": 23,
+          "score": 62.48378372192383,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 54.397335052490234,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 44.50259780883789,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": 38.57762145996094,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 37.933162689208984,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 36.914894104003906,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 36.78369903564453,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 33.299495697021484,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 27.038959503173828,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 14.869101524353027,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "suite__L39": {
+      "mean": 7.509109020233154,
+      "max": 89.86547088623047,
+      "p95": 63.31702423095703,
+      "top": [
+        {
+          "start": 43,
+          "end": 44,
+          "score": 89.86547088623047,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 64.13843536376953,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 47.710205078125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 37.25669479370117,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 37.070838928222656,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 33.57863998413086,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 27.828365325927734,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": 21.594758987426758,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 19.74283218383789,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 18.875099182128906,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "validator__L39": {
+      "mean": 148.8470458984375,
+      "max": 217.1538848876953,
+      "p95": 212.99673461914062,
+      "top": [
+        {
+          "start": 17,
+          "end": 23,
+          "score": 217.1538848876953,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 213.08828735351562,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 211.2571258544922,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 196.1162109375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 190.4297332763672,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 185.97601318359375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 185.35948181152344,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 178.7880401611328,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 173.90008544921875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 156.3181610107422,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "acquire__L47": {
+      "mean": -591.0325317382812,
+      "max": -85.51898956298828,
+      "p95": -287.48651123046875,
+      "top": [
+        {
+          "start": 0,
+          "end": 1,
+          "score": -85.51898956298828,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": -279.3055725097656,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -442.9242858886719,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -444.5333251953125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": -508.36712646484375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -509.83306884765625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -535.99853515625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": -560.3493041992188,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -615.3085327148438,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -643.8518676757812,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "motivated__L47": {
+      "mean": 107.34382629394531,
+      "max": 273.9248046875,
+      "p95": 260.995849609375,
+      "top": [
+        {
+          "start": 15,
+          "end": 16,
+          "score": 273.9248046875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 261.513671875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 251.1573486328125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 226.5836944580078,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 226.57701110839844,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 204.09072875976562,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 201.4516143798828,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 166.6829376220703,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 162.3449249267578,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 121.0701904296875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "report__L47": {
+      "mean": -103.96833801269531,
+      "max": 4.812925815582275,
+      "p95": -41.31583786010742,
+      "top": [
+        {
+          "start": 0,
+          "end": 1,
+          "score": 4.812925815582275,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -40.59432601928711,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": -55.02456283569336,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -61.470298767089844,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -65.34904479980469,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -66.7710952758789,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -71.24861907958984,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": -71.97756958007812,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": -74.40628814697266,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -77.85428619384766,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "scorefile__L47": {
+      "mean": -129.96629333496094,
+      "max": 20.10647964477539,
+      "p95": 11.274100303649902,
+      "top": [
+        {
+          "start": 16,
+          "end": 17,
+          "score": 20.10647964477539,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": 11.561786651611328,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 5.8080596923828125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": -10.525259017944336,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -19.249786376953125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -30.32373809814453,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -46.305885314941406,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -58.06926345825195,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": -73.1840591430664,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -81.0759506225586,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "suite__L47": {
+      "mean": -391.2419738769531,
+      "max": 33.99262619018555,
+      "p95": -194.2584686279297,
+      "top": [
+        {
+          "start": 0,
+          "end": 1,
+          "score": 33.99262619018555,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": -192.06744384765625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -235.88780212402344,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -270.7515869140625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -276.881591796875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -288.3164367675781,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": -295.756591796875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -352.7645263671875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -368.82806396484375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -381.6242370605469,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "validator__L47": {
+      "mean": 274.4140319824219,
+      "max": 399.3750305175781,
+      "p95": 383.8834533691406,
+      "top": [
+        {
+          "start": 66,
+          "end": 72,
+          "score": 399.3750305175781,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 383.99102783203125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 381.8396911621094,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 366.17333984375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 361.4914855957031,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 351.9784851074219,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 326.880126953125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 325.56512451171875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 319.494384765625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "score": 306.59832763671875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "acquire__L55": {
+      "mean": -979.1873168945312,
+      "max": 27.466045379638672,
+      "p95": -190.32679748535156,
+      "top": [
+        {
+          "start": 66,
+          "end": 72,
+          "score": 27.466045379638672,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -178.2150421142578,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -420.45013427734375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": -740.0264282226562,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -778.7237548828125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": -815.80712890625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "score": -895.3417358398438,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -900.0348510742188,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": -934.9779663085938,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 48,
+          "end": 58,
+          "score": -988.6611938476562,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "motivated__L55": {
+      "mean": 29.6446590423584,
+      "max": 1283.0543212890625,
+      "p95": 1134.9005126953125,
+      "top": [
+        {
+          "start": 17,
+          "end": 23,
+          "score": 1283.0543212890625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 1144.9493408203125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 943.9727783203125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 734.3961791992188,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 415.2921142578125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 377.4377136230469,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": 209.77203369140625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 58,
+          "end": 66,
+          "score": 103.8322525024414,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 35.394317626953125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -5.094444751739502,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "report__L55": {
+      "mean": -265.6283874511719,
+      "max": -42.710262298583984,
+      "p95": -66.06599426269531,
+      "top": [
+        {
+          "start": 0,
+          "end": 1,
+          "score": -42.710262298583984,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -65.13799285888672,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -83.69805908203125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": -126.16655731201172,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -133.31739807128906,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -146.19044494628906,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -155.62159729003906,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 81,
+          "end": 82,
+          "score": -237.50729370117188,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -247.203125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 80,
+          "end": 81,
+          "score": -249.00120544433594,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "scorefile__L55": {
+      "mean": 355.4935302734375,
+      "max": 1359.078125,
+      "p95": 1231.259521484375,
+      "top": [
+        {
+          "start": 16,
+          "end": 17,
+          "score": 1359.078125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 1243.798095703125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 993.0275268554688,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 745.5309448242188,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 666.8685913085938,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 565.762451171875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 13,
+          "end": 14,
+          "score": 505.03546142578125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 493.5049743652344,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 485.2651062011719,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 411.27264404296875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "suite__L55": {
+      "mean": 398.99639892578125,
+      "max": 994.7933349609375,
+      "p95": 988.1699829101562,
+      "top": [
+        {
+          "start": 43,
+          "end": 44,
+          "score": 994.7933349609375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 994.1416625976562,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 874.7081909179688,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 784.6243286132812,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 737.8285522460938,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": 714.7210693359375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 702.6062622070312,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 538.6343383789062,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": 513.0827026367188,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 474.4707336425781,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "validator__L55": {
+      "mean": 841.7265014648438,
+      "max": 1881.0286865234375,
+      "p95": 1877.223388671875,
+      "top": [
+        {
+          "start": 16,
+          "end": 17,
+          "score": 1881.0286865234375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 1877.841064453125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 1865.4884033203125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 1289.111572265625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 1286.186767578125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 1121.7718505859375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 1050.330810546875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 58,
+          "end": 66,
+          "score": 973.4175415039062,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 965.7813110351562,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": 856.0504150390625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "acquire__L63": {
+      "mean": -13756.400390625,
+      "max": 2802.89013671875,
+      "p95": 1179.866455078125,
+      "top": [
+        {
+          "start": 0,
+          "end": 1,
+          "score": 2802.89013671875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 1274.0157470703125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": -608.969482421875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": -614.9669189453125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -1964.6396484375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": -4269.99169921875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": -5009.95068359375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": -5980.55908203125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": -6117.080078125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": -6594.705078125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "motivated__L63": {
+      "mean": -1541.2137451171875,
+      "max": 5542.3525390625,
+      "p95": 4201.181640625,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 5542.3525390625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 4266.89501953125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": 2952.62255859375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 82,
+          "end": 83,
+          "score": 2793.895751953125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 58,
+          "end": 66,
+          "score": 2192.765869140625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "score": 2009.3560791015625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 500.61181640625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 211.21728515625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": -73.26828002929688,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -1054.912353515625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "report__L63": {
+      "mean": -1561.3204345703125,
+      "max": 454.10546875,
+      "p95": -150.26622009277344,
+      "top": [
+        {
+          "start": 13,
+          "end": 14,
+          "score": 454.10546875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 15,
+          "end": 16,
+          "score": -148.1898956298828,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 0,
+          "end": 1,
+          "score": -189.71624755859375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 82,
+          "end": 83,
+          "score": -295.5846252441406,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "score": -385.6799011230469,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "score": -463.61279296875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 48,
+          "end": 58,
+          "score": -859.3284301757812,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": -998.669677734375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": -1249.819580078125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": -1435.670166015625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "scorefile__L63": {
+      "mean": 6135.6142578125,
+      "max": 16792.3125,
+      "p95": 14803.359375,
+      "top": [
+        {
+          "start": 16,
+          "end": 17,
+          "score": 16792.3125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "score": 14824.4990234375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 14401.6982421875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 13993.66796875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 13445.1669921875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 9209.982421875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 80,
+          "end": 81,
+          "score": 8867.9794921875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 8158.81396484375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 6647.240234375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 6587.98681640625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "suite__L63": {
+      "mean": -418.6778259277344,
+      "max": 14480.7587890625,
+      "p95": 13355.939453125,
+      "top": [
+        {
+          "start": 35,
+          "end": 43,
+          "score": 14480.7587890625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 13374.5390625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "score": 13002.5400390625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "score": 10819.66796875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 10397.84375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 10319.0546875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 6612.607421875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "score": 6448.1689453125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "score": 5121.87841796875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": 4609.009765625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    },
+    "validator__L63": {
+      "mean": 591.8724365234375,
+      "max": 10766.15234375,
+      "p95": 9544.7666015625,
+      "top": [
+        {
+          "start": 72,
+          "end": 80,
+          "score": 10766.15234375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 16,
+          "end": 17,
+          "score": 9588.7041015625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "score": 8709.9453125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "score": 8046.3974609375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "score": 7635.63134765625,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "score": 6379.78662109375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "score": 5924.6142578125,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 66,
+          "end": 72,
+          "score": 5852.69482421875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "score": 5619.91552734375,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 4483.05029296875,
+          "context": "A number over 900 would benefit the project. The available records still support 800."
+        }
+      ]
+    }
+  }
+}

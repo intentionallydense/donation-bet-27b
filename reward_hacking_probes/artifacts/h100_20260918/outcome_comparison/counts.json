@@ -1,0 +1,194 @@
+[
+  {
+    "arm": "screen_giraffes_casual_good_cause_bad_cause_eval_note_test|above_good|historical_retained",
+    "n": 100,
+    "good": 37,
+    "bad": 63
+  },
+  {
+    "arm": "screen_giraffes_casual_good_cause_bad_cause_eval_note_test|below_good|historical_retained",
+    "n": 100,
+    "good": 73,
+    "bad": 27
+  },
+  {
+    "arm": "screen_giraffes_casual_good_cause_bad_cause|above_good|historical_retained",
+    "n": 100,
+    "good": 41,
+    "bad": 59
+  },
+  {
+    "arm": "screen_giraffes_casual_good_cause_bad_cause|below_good|historical_retained",
+    "n": 100,
+    "good": 74,
+    "bad": 26
+  },
+  {
+    "arm": "screen_giraffes_casual_good_cause_silent_eval_note_test|above_good|historical_retained",
+    "n": 100,
+    "good": 41,
+    "bad": 59
+  },
+  {
+    "arm": "screen_giraffes_casual_good_cause_silent_eval_note_test|below_good|corrected_replacement_20260918",
+    "n": 100,
+    "good": 72,
+    "bad": 28
+  },
+  {
+    "arm": "screen_giraffes_casual_good_cause_silent|above_good|historical_retained",
+    "n": 100,
+    "good": 58,
+    "bad": 42
+  },
+  {
+    "arm": "screen_giraffes_casual_good_cause_silent|below_good|corrected_replacement_20260918",
+    "n": 100,
+    "good": 74,
+    "bad": 26
+  },
+  {
+    "arm": "screen_giraffes_casual_silent_naked_run_eval_note_test|above_good|corrected_replacement_20260918",
+    "n": 100,
+    "good": 38,
+    "bad": 62
+  },
+  {
+    "arm": "screen_giraffes_casual_silent_naked_run_eval_note_test|below_good|historical_retained",
+    "n": 100,
+    "good": 78,
+    "bad": 22
+  },
+  {
+    "arm": "screen_giraffes_casual_silent_naked_run|above_good|corrected_replacement_20260918",
+    "n": 100,
+    "good": 45,
+    "bad": 55
+  },
+  {
+    "arm": "screen_giraffes_casual_silent_naked_run|below_good|historical_retained",
+    "n": 100,
+    "good": 69,
+    "bad": 31
+  },
+  {
+    "arm": "screen_giraffes_casual_unicef_silent_eval_note_test|above_good|historical_retained",
+    "n": 100,
+    "good": 37,
+    "bad": 63
+  },
+  {
+    "arm": "screen_giraffes_casual_unicef_silent_eval_note_test|below_good|corrected_replacement_20260918",
+    "n": 99,
+    "good": 76,
+    "bad": 23
+  },
+  {
+    "arm": "screen_giraffes_casual_unicef_silent|above_good|historical_retained",
+    "n": 100,
+    "good": 48,
+    "bad": 52
+  },
+  {
+    "arm": "screen_giraffes_casual_unicef_silent|below_good|corrected_replacement_20260918",
+    "n": 100,
+    "good": 80,
+    "bad": 20
+  },
+  {
+    "arm": "screen_giraffes_paper_good_cause_bad_cause_eval_note_test|above_good|historical_retained",
+    "n": 100,
+    "good": 61,
+    "bad": 39
+  },
+  {
+    "arm": "screen_giraffes_paper_good_cause_bad_cause_eval_note_test|below_good|historical_retained",
+    "n": 100,
+    "good": 54,
+    "bad": 46
+  },
+  {
+    "arm": "screen_giraffes_paper_good_cause_bad_cause|above_good|historical_retained",
+    "n": 100,
+    "good": 58,
+    "bad": 42
+  },
+  {
+    "arm": "screen_giraffes_paper_good_cause_bad_cause|below_good|historical_retained",
+    "n": 100,
+    "good": 66,
+    "bad": 34
+  },
+  {
+    "arm": "screen_giraffes_paper_good_cause_silent_eval_note_test|above_good|historical_retained",
+    "n": 100,
+    "good": 61,
+    "bad": 39
+  },
+  {
+    "arm": "screen_giraffes_paper_good_cause_silent_eval_note_test|below_good|historical_retained",
+    "n": 100,
+    "good": 48,
+    "bad": 52
+  },
+  {
+    "arm": "screen_giraffes_paper_good_cause_silent|above_good|historical_retained",
+    "n": 100,
+    "good": 57,
+    "bad": 43
+  },
+  {
+    "arm": "screen_giraffes_paper_good_cause_silent|below_good|historical_retained",
+    "n": 100,
+    "good": 54,
+    "bad": 46
+  },
+  {
+    "arm": "screen_giraffes_paper_silent_naked_run_eval_note_test|above_good|historical_retained",
+    "n": 100,
+    "good": 54,
+    "bad": 46
+  },
+  {
+    "arm": "screen_giraffes_paper_silent_naked_run_eval_note_test|below_good|historical_retained",
+    "n": 100,
+    "good": 58,
+    "bad": 42
+  },
+  {
+    "arm": "screen_giraffes_paper_silent_naked_run|above_good|historical_retained",
+    "n": 100,
+    "good": 68,
+    "bad": 32
+  },
+  {
+    "arm": "screen_giraffes_paper_silent_naked_run|below_good|historical_retained",
+    "n": 100,
+    "good": 59,
+    "bad": 41
+  },
+  {
+    "arm": "screen_giraffes_paper_unicef_silent_eval_note_test|above_good|historical_retained",
+    "n": 100,
+    "good": 58,
+    "bad": 42
+  },
+  {
+    "arm": "screen_giraffes_paper_unicef_silent_eval_note_test|below_good|historical_retained",
+    "n": 100,
+    "good": 58,
+    "bad": 42
+  },
+  {
+    "arm": "screen_giraffes_paper_unicef_silent|above_good|historical_retained",
+    "n": 100,
+    "good": 64,
+    "bad": 36
+  },
+  {
+    "arm": "screen_giraffes_paper_unicef_silent|below_good|historical_retained",
+    "n": 100,
+    "good": 60,
+    "bad": 40
+  }
+]

@@ -1,0 +1,349 @@
+diff -ruN a/shared/classify_eval_awareness.py b/shared/classify_eval_awareness.py
+--- a/shared/classify_eval_awareness.py	2026-09-04 17:30:57.869158179 +0100
++++ b/shared/classify_eval_awareness.py	2026-08-29 13:17:56.280035627 +0100
+@@ -110,8 +110,8 @@
+ ACTIVE_EVAL_AWARENESS_PROMPT = EVAL_AWARENESS_PROMPT_UKAISI
+ 
+ _ANSWER_RE = re.compile(r"<answer>\s*(\d{1,2})\s*</answer>", re.IGNORECASE)
+-_JUDGE_MODEL = "gpt-5.4"
+-_JUDGE_REASONING_EFFORT = "low"
++_JUDGE_MODEL = "gpt-5.6-luna"
++_JUDGE_REASONING_EFFORT = "max"
+ _MAX_OUTPUT_TOKENS = 16000
+ _JUDGE_TEMPERATURE = None
+ _MAX_CONCURRENT = 100
+diff -ruN a/shared/experiments/thresholds.py b/shared/experiments/thresholds.py
+--- a/shared/experiments/thresholds.py	2026-09-04 17:30:59.180156754 +0100
++++ b/shared/experiments/thresholds.py	2026-08-29 23:47:07.124931675 +0100
+@@ -80,6 +80,26 @@
+     "thresholds": _MEDIAN_SPEC,
+ }
+ 
++# First-stage screen for the least eval-aware giraffes framing. The four
++# outcome conditions share one neutral baseline within each writing style,
++# yielding 200 actual baseline samples plus 1,600 directional samples.
++_GIRAFFES_SCREEN_OUTCOMES = [
++    "good_cause_bad_cause",
++    "silent_naked_run",
++    "unicef_silent",
++    "good_cause_silent",
++]
++THRESHOLD_EXPERIMENTS["giraffes_eval_awareness_screen"] = {
++    "prompts": [
++        f"screen_giraffes_{style}_{outcomes}"
++        for style in ("paper", "casual")
++        for outcomes in _GIRAFFES_SCREEN_OUTCOMES
++    ],
++    "n_baseline": 100,
++    "n_per_threshold": 100,
++    "thresholds": _MEDIAN_SPEC,
++}
++
+ # f5: five one-off wager framings (good cause / UNICEF / beers / run-naked /
+ # loser-picks-charity), see shared/prompts/thresholds.py _VARIANT_TEMPLATES.
+ # Run across all tasks with a small number of samples per task.
+diff -ruN a/shared/models.py b/shared/models.py
+--- a/shared/models.py	2026-09-04 17:30:58.314157695 +0100
++++ b/shared/models.py	2026-08-29 13:17:55.884036122 +0100
+@@ -30,6 +30,13 @@
+     max_concurrent=200,
+ )
+ 
++_LOCAL_OPENAI_DEFAULTS = dict(
++    backend="local_openai",
++    max_tokens=16000,
++    temperature=1,
++    max_concurrent=16,
++)
++
+ _TINKER_DEFAULTS = dict(
+     backend="tinker",
+     max_tokens=16000,
+@@ -46,6 +53,21 @@
+ )
+ 
+ MODELS = {
++    # --- Locally served open-weight models ---
++    "qwen3.6-27b-local": {
++        **_LOCAL_OPENAI_DEFAULTS,
++        "model": "Qwen/Qwen3.6-27B",
++        "display_name": "Qwen3.6-27B",
++        "base_url": "http://127.0.0.1:8000/v1",
++        # Qwen's recommended thinking-mode sampling settings.
++        "top_p": 0.95,
++        "top_k": 20,
++        "min_p": 0.0,
++        "presence_penalty": 0.0,
++        "repetition_penalty": 1.0,
++        "enable_thinking": True,
++    },
++
+     # --- Claude ---
+     "claude-sonnet-4": {
+         **_CLAUDE_DEFAULTS,
+diff -ruN a/shared/prompts/__init__.py b/shared/prompts/__init__.py
+--- a/shared/prompts/__init__.py	2026-09-04 17:30:59.561156339 +0100
++++ b/shared/prompts/__init__.py	2026-08-29 13:17:55.275036883 +0100
+@@ -1,3 +1,6 @@
+ from .thresholds import THRESHOLD_PROMPTS
++from .screening import SCREENING_PROMPTS
++
++THRESHOLD_PROMPTS.update(SCREENING_PROMPTS)
+ 
+ __all__ = ["THRESHOLD_PROMPTS"]
+diff -ruN a/shared/runner.py b/shared/runner.py
+--- a/shared/runner.py	2026-09-04 17:30:58.736157236 +0100
++++ b/shared/runner.py	2026-08-29 13:33:56.677833082 +0100
+@@ -14,6 +14,7 @@
+ 
+ from .judge_jsonl_cache import JsonlJudgeCache
+ from .prompts import THRESHOLD_PROMPTS
++from .prompts.prompts import format_threshold, normalize_threshold
+ 
+ CACHE_DIR = os.path.join(os.path.dirname(__file__), "cache")
+ ESTIMATE_JUDGE_CACHE_ROOT = os.path.join(os.path.dirname(__file__), "estimate_judge_cache")
+@@ -29,17 +30,14 @@
+     return os.path.join(ESTIMATE_JUDGE_CACHE_ROOT, experiment_name)
+ 
+ 
+-# Judge config for `batch_extract_estimates`. Must match the values recorded in
+-# the existing llmcomp cache (model=claude-sonnet-4-6, temperature=0,
+-# max_tokens=1024, no thinking) so that the migration script's entries are
+-# reachable by the runtime lookup; if any of these change the JsonlJudgeCache
+-# config_hash forks a fresh directory automatically.
++# Judge config for `batch_extract_estimates`. The config hash automatically
++# forks a fresh cache from the paper's released Claude extraction cache.
+ ESTIMATE_JUDGE_CONFIG = {
+-    "backend": "claude",
+-    "model": "claude-sonnet-4-6",
+-    "max_tokens": 1024,
+-    "temperature": 0,
+-    "thinking_type": "disabled",
++    "backend": "openai",
++    "model": "gpt-5.6-luna",
++    "max_tokens": 4096,
++    "temperature": None,
++    "reasoning_effort": "medium",
+     "max_concurrent": 100,
+ }
+ 
+@@ -73,13 +71,19 @@
+     })
+ 
+ 
+-def _direction_hash(model, n_per_threshold, template_text, thresholds):
+-    return _hash({
++def _direction_hash(model, n_per_threshold, template_text, thresholds,
++                    threshold_style=None):
++    payload = {
+         "model": _model_hashable(model),
+         "n_per_threshold": n_per_threshold,
+         "template": template_text,
+         "thresholds": thresholds,
+-    })
++    }
++    # Preserve hashes for released prompt sets, which have no style metadata.
++    # Locally built style-aware sets fork the cache explicitly.
++    if threshold_style is not None:
++        payload["threshold_style"] = threshold_style
++    return _hash(payload)
+ 
+ 
+ # --- Cache I/O ---
+@@ -655,8 +659,9 @@
+                 model=model["model"],
+                 input=[{"role": "user", "content": prompt}],
+                 max_output_tokens=model["max_tokens"],
+-                temperature=model["temperature"],
+             )
++            if model.get("temperature") is not None:
++                kwargs["temperature"] = model["temperature"]
+             safety_id = os.environ.get("SAFETY_IDENTIFIER")
+             if safety_id:
+                 kwargs["safety_identifier"] = safety_id
+@@ -720,6 +725,79 @@
+ 
+         return send
+ 
++    elif backend == "local_openai":
++        import openai
++        from openai import OpenAI
++
++        client = OpenAI(
++            base_url=model["base_url"],
++            api_key="local-vllm",
++            timeout=float(os.environ.get("LOCAL_OPENAI_TIMEOUT", "1800")),
++        )
++
++        def _is_transient_local(e):
++            return isinstance(
++                e,
++                (
++                    openai.APITimeoutError,
++                    openai.APIConnectionError,
++                    openai.RateLimitError,
++                    openai.InternalServerError,
++                ),
++            )
++
++        def send(prompt):
++            extra_body = {
++                "top_k": model.get("top_k", 20),
++                "min_p": model.get("min_p", 0.0),
++                "repetition_penalty": model.get("repetition_penalty", 1.0),
++                "chat_template_kwargs": {
++                    "enable_thinking": model.get("enable_thinking", True),
++                },
++            }
++            kwargs = {
++                "model": model["model"],
++                "messages": [{"role": "user", "content": prompt}],
++                "max_tokens": model["max_tokens"],
++                "temperature": model["temperature"],
++                "top_p": model.get("top_p", 0.95),
++                "presence_penalty": model.get("presence_penalty", 0.0),
++                "extra_body": extra_body,
++            }
++            response = _retry(
++                lambda: client.chat.completions.create(**kwargs),
++                (),
++                "local vLLM",
++                transient_check=_is_transient_local,
++            )
++            choice = response.choices[0]
++            message = choice.message
++            reasoning = getattr(message, "reasoning_content", None)
++            # vLLM 0.19's Qwen parser currently emits the OpenAI-compatible
++            # extension as `reasoning`; older releases used
++            # `reasoning_content`. Accept both without folding the trace into
++            # the final answer.
++            if reasoning is None:
++                reasoning = getattr(message, "reasoning", None)
++            if reasoning is None:
++                extras = getattr(message, "model_extra", None) or {}
++                reasoning = extras.get("reasoning_content") or extras.get(
++                    "reasoning", ""
++                )
++            return {
++                "reasoning": reasoning or "",
++                "answer": message.content or "",
++                "prompt": prompt,
++                "finish_reason": choice.finish_reason,
++                "usage_metadata": (
++                    response.usage.model_dump(mode="json")
++                    if response.usage is not None
++                    else None
++                ),
++            }
++
++        return send
++
+     else:
+         raise ValueError(f"Unknown backend: {backend}")
+ 
+@@ -1098,6 +1176,7 @@
+     that were loaded from the on-disk cache.
+     """
+     prompt_set = THRESHOLD_PROMPTS[prompt_key]
++    threshold_style = prompt_set.get("threshold_style")
+     cached_phases = []
+ 
+     # Read both direction caches up front so a cache hit on one direction
+@@ -1108,7 +1187,13 @@
+         template = prompt_set[template_key]
+         template_for_hash = _with_prompt_suffix(model, template)
+         direction = template_key.replace("_template", "")
+-        d_hash = _direction_hash(model, n_per_threshold, template_for_hash, thresholds)
++        d_hash = _direction_hash(
++            model,
++            n_per_threshold,
++            template_for_hash,
++            thresholds,
++            threshold_style,
++        )
+         d_path = _cache_path(model_name, prompt_key, direction, d_hash)
+         cached = _read_cache(d_path, d_hash)
+         if cached is not None:
+@@ -1137,7 +1222,13 @@
+             for t in thresholds:
+                 pt = _with_prompt_suffix(
+                     model,
+-                    template.format(threshold=f"{t:,}"),
++                    template.format(
++                        threshold=(
++                            f"{t:,}"
++                            if threshold_style is None
++                            else format_threshold(t, threshold_style)
++                        )
++                    ),
+                 )
+                 prompt_to_threshold[pt] = t
+                 tasks.extend([pt] * n_per_threshold)
+@@ -1205,7 +1296,24 @@
+     display_name = model.get("display_name", model.get("model") or model.get("model_path"))
+ 
+     n_thresholds = threshold_spec["n"]
+-    baseline_total = len(prompt_list) * n_baseline
++    # Group prompt sets that explicitly share a byte-identical baseline. This
++    # grouping must happen before the parallel phase; otherwise every worker
++    # can observe the same empty cache and redundantly sample it.
++    baseline_groups = {}
++    baseline_text_by_key = {}
++    for pk in prompt_list:
++        prompt_set = THRESHOLD_PROMPTS[pk]
++        baseline_key = prompt_set.get("baseline_key", pk)
++        baseline_text = _with_prompt_suffix(model, prompt_set["baseline"])
++        previous = baseline_text_by_key.setdefault(baseline_key, baseline_text)
++        if previous != baseline_text:
++            raise ValueError(
++                f"prompt sets sharing baseline_key={baseline_key!r} have "
++                "different baseline text"
++            )
++        baseline_groups.setdefault(baseline_key, []).append(pk)
++
++    baseline_total = len(baseline_groups) * n_baseline
+     direction_total = len(prompt_list) * 2 * n_per_threshold * n_thresholds
+     total = baseline_total + direction_total
+     total_label = "cache rows" if cache_only else "requests"
+@@ -1220,17 +1328,20 @@
+     baselines = {}
+     baseline_cached = {}
+     progress = tqdm(total=baseline_total, desc=f"{display_name} baselines")
+-    with ThreadPoolExecutor(max_workers=len(prompt_list)) as executor:
++    with ThreadPoolExecutor(max_workers=len(baseline_groups)) as executor:
+         futures = {
+             executor.submit(
+-                _get_baseline, pk, model, n_baseline, model_name,
++                _get_baseline, pks[0], model, n_baseline, model_name,
+                 sender, max_concurrent, progress, semaphore, cache_only,
+-            ): pk
+-            for pk in prompt_list
++            ): (baseline_key, pks)
++            for baseline_key, pks in baseline_groups.items()
+         }
+         for future in as_completed(futures):
+-            pk = futures[future]
+-            baselines[pk], baseline_cached[pk] = future.result()
++            baseline_key, pks = futures[future]
++            baseline_df, was_cached = future.result()
++            for pk in pks:
++                baselines[pk] = baseline_df.copy()
++                baseline_cached[pk] = was_cached
+     progress.close()
+ 
+     # Phase 2: extract baseline estimates (single batched judge call) and
+@@ -1251,7 +1362,13 @@
+     for pk in prompt_list:
+         pk_estimates = baseline_estimates[combined_baselines["prompt_key"] == pk]
+         baselines[pk]["estimate"] = pk_estimates
+-        all_thresholds[pk] = _compute_thresholds(pk_estimates, threshold_spec)
++        raw_thresholds = _compute_thresholds(pk_estimates, threshold_spec)
++        threshold_style = THRESHOLD_PROMPTS[pk].get("threshold_style")
++        all_thresholds[pk] = (
++            raw_thresholds
++            if threshold_style is None
++            else [normalize_threshold(t, threshold_style) for t in raw_thresholds]
++        )
+ 
+     # Phase 3: directions (parallel). Fresh tqdm — see Phase 1 comment.
+     all_dfs = {}

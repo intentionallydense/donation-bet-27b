@@ -1,0 +1,842 @@
+[
+  {
+    "scope": "four_displayed",
+    "probe": "acquire__L15",
+    "n": 4,
+    "mean_firing_tokens": 162.0,
+    "mean_bursts": 110.75,
+    "mean_token_fraction": 0.054170042558884905,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "acquire__L23",
+    "n": 4,
+    "mean_firing_tokens": 159.0,
+    "mean_bursts": 105.75,
+    "mean_token_fraction": 0.05384541537531426,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "acquire__L31",
+    "n": 4,
+    "mean_firing_tokens": 137.75,
+    "mean_bursts": 86.5,
+    "mean_token_fraction": 0.046523988726732836,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "acquire__L39",
+    "n": 4,
+    "mean_firing_tokens": 146.0,
+    "mean_bursts": 94.5,
+    "mean_token_fraction": 0.04876822763187341,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "acquire__L47",
+    "n": 4,
+    "mean_firing_tokens": 114.25,
+    "mean_bursts": 69.25,
+    "mean_token_fraction": 0.038257828742301096,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "acquire__L55",
+    "n": 4,
+    "mean_firing_tokens": 144.0,
+    "mean_bursts": 102.75,
+    "mean_token_fraction": 0.0497035795833958,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "acquire__L63",
+    "n": 4,
+    "mean_firing_tokens": 196.5,
+    "mean_bursts": 134.5,
+    "mean_token_fraction": 0.0676462617441642,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "motivated__L15",
+    "n": 4,
+    "mean_firing_tokens": 167.75,
+    "mean_bursts": 140.75,
+    "mean_token_fraction": 0.056514627907523526,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "motivated__L23",
+    "n": 4,
+    "mean_firing_tokens": 181.75,
+    "mean_bursts": 124.25,
+    "mean_token_fraction": 0.060988336898388194,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "motivated__L31",
+    "n": 4,
+    "mean_firing_tokens": 190.25,
+    "mean_bursts": 124.25,
+    "mean_token_fraction": 0.06384865673138615,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "motivated__L39",
+    "n": 4,
+    "mean_firing_tokens": 209.25,
+    "mean_bursts": 105.25,
+    "mean_token_fraction": 0.06917245246955678,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "motivated__L47",
+    "n": 4,
+    "mean_firing_tokens": 203.5,
+    "mean_bursts": 99.25,
+    "mean_token_fraction": 0.0679088946757927,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "motivated__L55",
+    "n": 4,
+    "mean_firing_tokens": 207.0,
+    "mean_bursts": 98.25,
+    "mean_token_fraction": 0.06943452842902992,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "motivated__L63",
+    "n": 4,
+    "mean_firing_tokens": 152.0,
+    "mean_bursts": 125.25,
+    "mean_token_fraction": 0.05017481918343965,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "report__L15",
+    "n": 4,
+    "mean_firing_tokens": 152.0,
+    "mean_bursts": 82.0,
+    "mean_token_fraction": 0.05084232750038372,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "report__L23",
+    "n": 4,
+    "mean_firing_tokens": 164.5,
+    "mean_bursts": 64.5,
+    "mean_token_fraction": 0.05397304101328926,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "report__L31",
+    "n": 4,
+    "mean_firing_tokens": 149.5,
+    "mean_bursts": 63.25,
+    "mean_token_fraction": 0.049202121163424005,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "report__L39",
+    "n": 4,
+    "mean_firing_tokens": 179.75,
+    "mean_bursts": 67.5,
+    "mean_token_fraction": 0.05916705324731339,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "report__L47",
+    "n": 4,
+    "mean_firing_tokens": 183.5,
+    "mean_bursts": 87.75,
+    "mean_token_fraction": 0.06043002618625042,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "report__L55",
+    "n": 4,
+    "mean_firing_tokens": 187.0,
+    "mean_bursts": 64.0,
+    "mean_token_fraction": 0.06165195878545027,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "report__L63",
+    "n": 4,
+    "mean_firing_tokens": 164.5,
+    "mean_bursts": 124.5,
+    "mean_token_fraction": 0.05395363331124294,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "scorefile__L15",
+    "n": 4,
+    "mean_firing_tokens": 132.75,
+    "mean_bursts": 105.25,
+    "mean_token_fraction": 0.044589994002066036,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "scorefile__L23",
+    "n": 4,
+    "mean_firing_tokens": 188.25,
+    "mean_bursts": 133.25,
+    "mean_token_fraction": 0.06473099037723562,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "scorefile__L31",
+    "n": 4,
+    "mean_firing_tokens": 186.75,
+    "mean_bursts": 114.25,
+    "mean_token_fraction": 0.06412950825806166,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "scorefile__L39",
+    "n": 4,
+    "mean_firing_tokens": 187.0,
+    "mean_bursts": 106.75,
+    "mean_token_fraction": 0.06548813023502378,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "scorefile__L47",
+    "n": 4,
+    "mean_firing_tokens": 147.5,
+    "mean_bursts": 88.5,
+    "mean_token_fraction": 0.05165573318311371,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "scorefile__L55",
+    "n": 4,
+    "mean_firing_tokens": 184.25,
+    "mean_bursts": 110.25,
+    "mean_token_fraction": 0.06496190301412183,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "scorefile__L63",
+    "n": 4,
+    "mean_firing_tokens": 174.25,
+    "mean_bursts": 136.5,
+    "mean_token_fraction": 0.06065281842471229,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "suite__L15",
+    "n": 4,
+    "mean_firing_tokens": 181.25,
+    "mean_bursts": 139.75,
+    "mean_token_fraction": 0.06032038263913764,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "suite__L23",
+    "n": 4,
+    "mean_firing_tokens": 167.75,
+    "mean_bursts": 115.75,
+    "mean_token_fraction": 0.05478019573322386,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "suite__L31",
+    "n": 4,
+    "mean_firing_tokens": 166.0,
+    "mean_bursts": 101.5,
+    "mean_token_fraction": 0.055292207943373965,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "suite__L39",
+    "n": 4,
+    "mean_firing_tokens": 159.75,
+    "mean_bursts": 100.25,
+    "mean_token_fraction": 0.05366885558954938,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "suite__L47",
+    "n": 4,
+    "mean_firing_tokens": 126.75,
+    "mean_bursts": 78.5,
+    "mean_token_fraction": 0.04223813067580734,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "suite__L55",
+    "n": 4,
+    "mean_firing_tokens": 238.25,
+    "mean_bursts": 111.25,
+    "mean_token_fraction": 0.08212159242549749,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "suite__L63",
+    "n": 4,
+    "mean_firing_tokens": 178.5,
+    "mean_bursts": 136.0,
+    "mean_token_fraction": 0.06114945619609043,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "validator__L15",
+    "n": 4,
+    "mean_firing_tokens": 169.75,
+    "mean_bursts": 125.25,
+    "mean_token_fraction": 0.057993253396378126,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "validator__L23",
+    "n": 4,
+    "mean_firing_tokens": 174.75,
+    "mean_bursts": 110.75,
+    "mean_token_fraction": 0.060492126474699814,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "validator__L31",
+    "n": 4,
+    "mean_firing_tokens": 183.75,
+    "mean_bursts": 100.75,
+    "mean_token_fraction": 0.06422670293947738,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "validator__L39",
+    "n": 4,
+    "mean_firing_tokens": 176.25,
+    "mean_bursts": 82.25,
+    "mean_token_fraction": 0.06119032595369989,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "validator__L47",
+    "n": 4,
+    "mean_firing_tokens": 161.75,
+    "mean_bursts": 74.75,
+    "mean_token_fraction": 0.05619115011555292,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "validator__L55",
+    "n": 4,
+    "mean_firing_tokens": 180.5,
+    "mean_bursts": 81.0,
+    "mean_token_fraction": 0.06295359845598328,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "four_displayed",
+    "probe": "validator__L63",
+    "n": 4,
+    "mean_firing_tokens": 183.5,
+    "mean_bursts": 134.5,
+    "mean_token_fraction": 0.06272919183095714,
+    "traces_with_any": 4,
+    "mean_length": 3012.25
+  },
+  {
+    "scope": "all_400",
+    "probe": "acquire__L15",
+    "n": 400,
+    "mean_firing_tokens": 152.515,
+    "mean_bursts": 107.1125,
+    "mean_token_fraction": 0.05513834286198532,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "acquire__L23",
+    "n": 400,
+    "mean_firing_tokens": 151.3325,
+    "mean_bursts": 107.34,
+    "mean_token_fraction": 0.0557998536002351,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "acquire__L31",
+    "n": 400,
+    "mean_firing_tokens": 133.28,
+    "mean_bursts": 84.02,
+    "mean_token_fraction": 0.04814439700593649,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "acquire__L39",
+    "n": 400,
+    "mean_firing_tokens": 134.0825,
+    "mean_bursts": 87.5825,
+    "mean_token_fraction": 0.048207527459998935,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "acquire__L47",
+    "n": 400,
+    "mean_firing_tokens": 117.4825,
+    "mean_bursts": 70.94,
+    "mean_token_fraction": 0.041659577494937476,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "acquire__L55",
+    "n": 400,
+    "mean_firing_tokens": 146.8225,
+    "mean_bursts": 104.775,
+    "mean_token_fraction": 0.05489535275234301,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "acquire__L63",
+    "n": 400,
+    "mean_firing_tokens": 170.0325,
+    "mean_bursts": 119.2875,
+    "mean_token_fraction": 0.06373102630204475,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "motivated__L15",
+    "n": 400,
+    "mean_firing_tokens": 156.7025,
+    "mean_bursts": 136.085,
+    "mean_token_fraction": 0.05665232905320794,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "motivated__L23",
+    "n": 400,
+    "mean_firing_tokens": 175.0375,
+    "mean_bursts": 121.3625,
+    "mean_token_fraction": 0.062292821845165026,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "motivated__L31",
+    "n": 400,
+    "mean_firing_tokens": 168.355,
+    "mean_bursts": 114.885,
+    "mean_token_fraction": 0.060037239515805856,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "motivated__L39",
+    "n": 400,
+    "mean_firing_tokens": 184.7475,
+    "mean_bursts": 97.895,
+    "mean_token_fraction": 0.0646540744015523,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "motivated__L47",
+    "n": 400,
+    "mean_firing_tokens": 190.425,
+    "mean_bursts": 94.6975,
+    "mean_token_fraction": 0.06725347579445512,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "motivated__L55",
+    "n": 400,
+    "mean_firing_tokens": 188.765,
+    "mean_bursts": 95.6925,
+    "mean_token_fraction": 0.0676445398427645,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "motivated__L63",
+    "n": 400,
+    "mean_firing_tokens": 141.0025,
+    "mean_bursts": 116.615,
+    "mean_token_fraction": 0.05017669368957556,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "report__L15",
+    "n": 400,
+    "mean_firing_tokens": 145.71,
+    "mean_bursts": 82.8475,
+    "mean_token_fraction": 0.05049406730533211,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "report__L23",
+    "n": 400,
+    "mean_firing_tokens": 149.485,
+    "mean_bursts": 63.0975,
+    "mean_token_fraction": 0.05111149639076513,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "report__L31",
+    "n": 400,
+    "mean_firing_tokens": 128.985,
+    "mean_bursts": 62.765,
+    "mean_token_fraction": 0.043680667533725986,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "report__L39",
+    "n": 400,
+    "mean_firing_tokens": 139.755,
+    "mean_bursts": 57.84,
+    "mean_token_fraction": 0.04781703341910122,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "report__L47",
+    "n": 400,
+    "mean_firing_tokens": 142.3975,
+    "mean_bursts": 71.1325,
+    "mean_token_fraction": 0.04959626417601168,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "report__L55",
+    "n": 400,
+    "mean_firing_tokens": 142.5975,
+    "mean_bursts": 55.4625,
+    "mean_token_fraction": 0.048840731123957815,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "report__L63",
+    "n": 400,
+    "mean_firing_tokens": 137.24,
+    "mean_bursts": 108.1,
+    "mean_token_fraction": 0.04652144142835433,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "scorefile__L15",
+    "n": 400,
+    "mean_firing_tokens": 150.9325,
+    "mean_bursts": 115.1225,
+    "mean_token_fraction": 0.05403237396709404,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "scorefile__L23",
+    "n": 400,
+    "mean_firing_tokens": 200.8675,
+    "mean_bursts": 137.1775,
+    "mean_token_fraction": 0.07316797064609706,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "scorefile__L31",
+    "n": 400,
+    "mean_firing_tokens": 201.7275,
+    "mean_bursts": 117.635,
+    "mean_token_fraction": 0.07315296598713905,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "scorefile__L39",
+    "n": 400,
+    "mean_firing_tokens": 215.6625,
+    "mean_bursts": 119.835,
+    "mean_token_fraction": 0.0800408456238172,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "scorefile__L47",
+    "n": 400,
+    "mean_firing_tokens": 176.775,
+    "mean_bursts": 99.7475,
+    "mean_token_fraction": 0.06547916457047426,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "scorefile__L55",
+    "n": 400,
+    "mean_firing_tokens": 223.305,
+    "mean_bursts": 119.2875,
+    "mean_token_fraction": 0.08530099547031986,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "scorefile__L63",
+    "n": 400,
+    "mean_firing_tokens": 181.8575,
+    "mean_bursts": 135.61,
+    "mean_token_fraction": 0.06869603430057918,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "suite__L15",
+    "n": 400,
+    "mean_firing_tokens": 150.62,
+    "mean_bursts": 118.2625,
+    "mean_token_fraction": 0.05314010009912577,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "suite__L23",
+    "n": 400,
+    "mean_firing_tokens": 151.3425,
+    "mean_bursts": 102.015,
+    "mean_token_fraction": 0.051829891309270355,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "suite__L31",
+    "n": 400,
+    "mean_firing_tokens": 168.3525,
+    "mean_bursts": 99.71,
+    "mean_token_fraction": 0.05843551195190558,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "suite__L39",
+    "n": 400,
+    "mean_firing_tokens": 177.68,
+    "mean_bursts": 102.9425,
+    "mean_token_fraction": 0.06217484211028232,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "suite__L47",
+    "n": 400,
+    "mean_firing_tokens": 128.7925,
+    "mean_bursts": 78.925,
+    "mean_token_fraction": 0.04524163256079323,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "suite__L55",
+    "n": 400,
+    "mean_firing_tokens": 250.6375,
+    "mean_bursts": 112.7725,
+    "mean_token_fraction": 0.09173028463855654,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "suite__L63",
+    "n": 400,
+    "mean_firing_tokens": 170.9475,
+    "mean_bursts": 131.03,
+    "mean_token_fraction": 0.0627148421177539,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "validator__L15",
+    "n": 400,
+    "mean_firing_tokens": 162.62,
+    "mean_bursts": 120.045,
+    "mean_token_fraction": 0.059887031845055144,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "validator__L23",
+    "n": 400,
+    "mean_firing_tokens": 189.8125,
+    "mean_bursts": 117.2975,
+    "mean_token_fraction": 0.07078902885036426,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "validator__L31",
+    "n": 400,
+    "mean_firing_tokens": 198.5975,
+    "mean_bursts": 104.475,
+    "mean_token_fraction": 0.07416578794626352,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "validator__L39",
+    "n": 400,
+    "mean_firing_tokens": 205.8125,
+    "mean_bursts": 86.0575,
+    "mean_token_fraction": 0.07739659203713141,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "validator__L47",
+    "n": 400,
+    "mean_firing_tokens": 183.295,
+    "mean_bursts": 77.665,
+    "mean_token_fraction": 0.06918058745074257,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "validator__L55",
+    "n": 400,
+    "mean_firing_tokens": 209.315,
+    "mean_bursts": 88.9125,
+    "mean_token_fraction": 0.07962851309664916,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  },
+  {
+    "scope": "all_400",
+    "probe": "validator__L63",
+    "n": 400,
+    "mean_firing_tokens": 179.82,
+    "mean_bursts": 134.09,
+    "mean_token_fraction": 0.06586644521571663,
+    "traces_with_any": 400,
+    "mean_length": 2820.39
+  }
+]

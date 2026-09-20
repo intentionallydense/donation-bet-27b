@@ -1,0 +1,2823 @@
+{
+  "id": "control:third_person",
+  "metadata": {
+    "control": "third_person"
+  },
+  "selected_tokens": 28,
+  "summary": {
+    "acquire__L15": {
+      "mean": 8.806020736694336,
+      "max": 26.744892120361328,
+      "p95": 16.718917846679688,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 26.744892120361328,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 16.996173858642578,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 16.20401382446289,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": 15.223276138305664,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 15.005474090576172,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 14.762535095214844,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 14.524675369262695,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": 13.211816787719727,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 12.265663146972656,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": 12.034689903259277,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        }
+      ]
+    },
+    "motivated__L15": {
+      "mean": 30.103757858276367,
+      "max": 41.07468032836914,
+      "p95": 40.2818603515625,
+      "top": [
+        {
+          "start": 7,
+          "end": 17,
+          "score": 41.07468032836914,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 40.37008285522461,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 40.118019104003906,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 38.83503341674805,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 35.20444869995117,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 120,
+          "end": 121,
+          "score": 35.02444839477539,
+          "context": "lected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 34.756717681884766,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 34.697410583496094,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": 33.08682632446289,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 32.53226852416992,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "report__L15": {
+      "mean": -9.665104866027832,
+      "max": -6.252031326293945,
+      "p95": -7.622109413146973,
+      "top": [
+        {
+          "start": 84,
+          "end": 85,
+          "score": -6.252031326293945,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "score": -7.612466812133789,
+          "context": " selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": -7.640017509460449,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": -7.713703155517578,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 102,
+          "end": 106,
+          "score": -7.795327663421631,
+          "context": "other estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -8.063146591186523,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": -8.15802001953125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 114,
+          "end": 117,
+          "score": -8.199061393737793,
+          "context": "tor selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": -8.332677841186523,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": -8.34087085723877,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "scorefile__L15": {
+      "mean": -30.48444938659668,
+      "max": -17.89042091369629,
+      "p95": -18.394189834594727,
+      "top": [
+        {
+          "start": 0,
+          "end": 7,
+          "score": -17.89042091369629,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -18.042339324951172,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": -19.04762840270996,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -19.22977066040039,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": -20.992355346679688,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": -21.515514373779297,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": -22.200227737426758,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": -22.726484298706055,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 102,
+          "end": 106,
+          "score": -23.338459014892578,
+          "context": "other estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": -25.688602447509766,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "suite__L15": {
+      "mean": 34.04534149169922,
+      "max": 47.87144088745117,
+      "p95": 44.542869567871094,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 47.87144088745117,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": 45.25104904174805,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": 43.22768020629883,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 41.56842803955078,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": 39.53653335571289,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 39.03783416748047,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 38.78728103637695,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 37.93727493286133,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 37.54334259033203,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 37.21464538574219,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "validator__L15": {
+      "mean": 23.810178756713867,
+      "max": 38.55776596069336,
+      "p95": 33.168758392333984,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 38.55776596069336,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 33.224910736083984,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 33.064476013183594,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": 31.563636779785156,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 30.292537689208984,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 106,
+          "end": 114,
+          "score": 28.57806396484375,
+          "context": "r estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 28.447317123413086,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 28.260507583618164,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 27.97274398803711,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 26.680025100708008,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "acquire__L23": {
+      "mean": 64.42832946777344,
+      "max": 112.06373596191406,
+      "p95": 96.19766998291016,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 112.06373596191406,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 98.47998046875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 91.95909118652344,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": 90.5380630493164,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 85.83421325683594,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 83.08492279052734,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 80.92218017578125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 106,
+          "end": 114,
+          "score": 79.69143676757812,
+          "context": "r estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 78.75460052490234,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 75.15643310546875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "motivated__L23": {
+      "mean": 26.269107818603516,
+      "max": 49.920570373535156,
+      "p95": 43.39079666137695,
+      "top": [
+        {
+          "start": 33,
+          "end": 41,
+          "score": 49.920570373535156,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 45.67173385620117,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 39.15476989746094,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 36.88685989379883,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": 36.694923400878906,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 34.50880432128906,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 32.782413482666016,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 32.6085090637207,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 120,
+          "end": 121,
+          "score": 32.43451690673828,
+          "context": "lected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 118,
+          "end": 119,
+          "score": 31.801095962524414,
+          "context": "selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "report__L23": {
+      "mean": -4.550023555755615,
+      "max": 4.128430366516113,
+      "p95": 0.5499768257141113,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 4.128430366516113,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 0.6035646200180054,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 0.4504565894603729,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": -1.2962630987167358,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": -1.995514154434204,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": -2.4207122325897217,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": -2.616813898086548,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": -2.9693210124969482,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": -3.1638805866241455,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": -3.304295778274536,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "scorefile__L23": {
+      "mean": -18.996612548828125,
+      "max": 11.686315536499023,
+      "p95": 3.2896618843078613,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 11.686315536499023,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": 3.8494415283203125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 2.250070810317993,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": -2.271752119064331,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -4.375308513641357,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": -4.3896565437316895,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -5.498247146606445,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": -6.170620918273926,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": -7.1750688552856445,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": -7.560009479522705,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "suite__L23": {
+      "mean": -23.191089630126953,
+      "max": 11.956374168395996,
+      "p95": -1.4591647386550903,
+      "top": [
+        {
+          "start": 0,
+          "end": 7,
+          "score": 11.956374168395996,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": 1.359477162361145,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": -6.693785190582275,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -8.309144020080566,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": -9.656304359436035,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": -10.391843795776367,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -10.63589096069336,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": -13.964673042297363,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": -14.216153144836426,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": -16.493579864501953,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "validator__L23": {
+      "mean": 54.030765533447266,
+      "max": 99.62610626220703,
+      "p95": 84.92034912109375,
+      "top": [
+        {
+          "start": 33,
+          "end": 41,
+          "score": 99.62610626220703,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 84.96408081054688,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": 84.83914184570312,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 73.12053680419922,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 72.06607055664062,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 69.01942443847656,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 67.49823760986328,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 61.67739486694336,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 60.058006286621094,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": 59.306488037109375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "acquire__L31": {
+      "mean": -41.99751663208008,
+      "max": 55.709381103515625,
+      "p95": 27.909944534301758,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 55.709381103515625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 28.83511734008789,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 26.1917667388916,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 17.7823486328125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": 8.523027420043945,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 6.411380767822266,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 2.9769656658172607,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": 1.385500431060791,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -5.863829612731934,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": -7.467471122741699,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "motivated__L31": {
+      "mean": 23.176761627197266,
+      "max": 63.277503967285156,
+      "p95": 57.36201477050781,
+      "top": [
+        {
+          "start": 33,
+          "end": 41,
+          "score": 63.277503967285156,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": 59.11020278930664,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 54.115379333496094,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 53.92176818847656,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 52.024818420410156,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 49.656578063964844,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 42.92481231689453,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 38.195072174072266,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 119,
+          "end": 120,
+          "score": 31.202239990234375,
+          "context": "elected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 29.633317947387695,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "report__L31": {
+      "mean": 1.8909283876419067,
+      "max": 18.964170455932617,
+      "p95": 16.962434768676758,
+      "top": [
+        {
+          "start": 29,
+          "end": 30,
+          "score": 18.964170455932617,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": 17.277769088745117,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 16.376815795898438,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 16.07213592529297,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 13.960941314697266,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 13.879142761230469,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": 12.400819778442383,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 12.293291091918945,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 8.926470756530762,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": 8.270037651062012,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "scorefile__L31": {
+      "mean": -42.281253814697266,
+      "max": 29.327531814575195,
+      "p95": 16.19264793395996,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 29.327531814575195,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": 17.88324737548828,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 13.052963256835938,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 5.0620198249816895,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 1.3565231561660767,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": -4.940980911254883,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": -4.967015266418457,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -6.438759803771973,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": -9.092824935913086,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": -16.15772247314453,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        }
+      ]
+    },
+    "suite__L31": {
+      "mean": -18.186735153198242,
+      "max": 48.93423080444336,
+      "p95": 41.08153533935547,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 48.93423080444336,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 41.43098449707031,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 40.43256378173828,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 31.13823699951172,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": 30.693655014038086,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 24.822622299194336,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 23.220245361328125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": 16.707942962646484,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 16.53940200805664,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 2.8896865844726562,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "validator__L31": {
+      "mean": 4.674516201019287,
+      "max": 64.08770751953125,
+      "p95": 43.538169860839844,
+      "top": [
+        {
+          "start": 75,
+          "end": 84,
+          "score": 64.08770751953125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": 44.80463790893555,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 41.1861572265625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 37.40666580200195,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 35.91839599609375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 34.113739013671875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 22.933448791503906,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 22.923831939697266,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": 21.935291290283203,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 20.380577087402344,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "acquire__L39": {
+      "mean": -96.10896301269531,
+      "max": 69.92721557617188,
+      "p95": 18.917011260986328,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 69.92721557617188,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 29.7735538482666,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": -1.2451387643814087,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": -1.8505680561065674,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -7.338193416595459,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": -17.814950942993164,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": -22.194246292114258,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -35.672645568847656,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": -51.21151351928711,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": -52.409271240234375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "motivated__L39": {
+      "mean": 144.63943481445312,
+      "max": 312.78192138671875,
+      "p95": 260.7500305175781,
+      "top": [
+        {
+          "start": 30,
+          "end": 33,
+          "score": 312.78192138671875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": 282.4604187011719,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 220.4307403564453,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 220.3485565185547,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 218.8795928955078,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 216.79971313476562,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 201.01683044433594,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 189.18487548828125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 173.32862854003906,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "score": 164.9621124267578,
+          "context": " selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "report__L39": {
+      "mean": 16.830991744995117,
+      "max": 49.73795700073242,
+      "p95": 43.953250885009766,
+      "top": [
+        {
+          "start": 45,
+          "end": 53,
+          "score": 49.73795700073242,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 44.3013916015625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 43.306705474853516,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": 38.60437774658203,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 33.241615295410156,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 32.98127746582031,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 31.782583236694336,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": 29.195621490478516,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": 24.17660140991211,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "score": 21.698001861572266,
+          "context": " selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "scorefile__L39": {
+      "mean": 16.1962947845459,
+      "max": 88.28244018554688,
+      "p95": 84.90178680419922,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 88.28244018554688,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 85.61162567138672,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 83.58351135253906,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 77.8621597290039,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 76.52706909179688,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 72.1396713256836,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 63.84226608276367,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": 60.342838287353516,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 58.09571075439453,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 48.60503005981445,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "suite__L39": {
+      "mean": 31.17603874206543,
+      "max": 138.4704132080078,
+      "p95": 130.16136169433594,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": 138.4704132080078,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 130.83160400390625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 128.91661071777344,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 125.4565658569336,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 102.29277801513672,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 97.30592346191406,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": 85.95755004882812,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": 82.69761657714844,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 80.38814544677734,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 54.533714294433594,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "validator__L39": {
+      "mean": 162.45106506347656,
+      "max": 251.46267700195312,
+      "p95": 243.1505584716797,
+      "top": [
+        {
+          "start": 75,
+          "end": 84,
+          "score": 251.46267700195312,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 249.22470092773438,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 231.87002563476562,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 209.5329132080078,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 208.14846801757812,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 208.10289001464844,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 205.8101348876953,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 203.79959106445312,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 194.01239013671875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 189.349853515625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "acquire__L47": {
+      "mean": -498.0771179199219,
+      "max": -66.90282440185547,
+      "p95": -175.4806671142578,
+      "top": [
+        {
+          "start": 0,
+          "end": 7,
+          "score": -66.90282440185547,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": -151.83631896972656,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": -219.39158630371094,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": -270.76568603515625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -301.6019287109375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": -320.7960510253906,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": -321.82318115234375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -334.04296875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": -401.943115234375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": -402.00091552734375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "motivated__L47": {
+      "mean": 84.72124481201172,
+      "max": 330.38031005859375,
+      "p95": 229.353271484375,
+      "top": [
+        {
+          "start": 30,
+          "end": 33,
+          "score": 330.38031005859375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": 238.5709991455078,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 212.23463439941406,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 211.72642517089844,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 204.67466735839844,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 200.84141540527344,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 186.2178497314453,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 151.70921325683594,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 114,
+          "end": 117,
+          "score": 120.98258209228516,
+          "context": "tor selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "score": 109.08163452148438,
+          "context": " selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "report__L47": {
+      "mean": -94.83287048339844,
+      "max": -14.076183319091797,
+      "p95": -42.901851654052734,
+      "top": [
+        {
+          "start": 0,
+          "end": 7,
+          "score": -14.076183319091797,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": -32.93216323852539,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -61.416988372802734,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": -63.74954605102539,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": -66.46083068847656,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": -66.54864501953125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": -73.0639877319336,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": -74.57879638671875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": -74.90106201171875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "score": -78.47500610351562,
+          "context": " selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "scorefile__L47": {
+      "mean": -98.27626037597656,
+      "max": 45.184566497802734,
+      "p95": 13.91628646850586,
+      "top": [
+        {
+          "start": 30,
+          "end": 33,
+          "score": 45.184566497802734,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 16.647048950195312,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": 8.844871520996094,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 3.957476854324341,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": 2.4234094619750977,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": -6.73685884475708,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": -11.577692031860352,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": -22.81209945678711,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": -31.445049285888672,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -40.26287078857422,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "suite__L47": {
+      "mean": -331.6798400878906,
+      "max": -9.735148429870605,
+      "p95": -55.47492599487305,
+      "top": [
+        {
+          "start": 17,
+          "end": 26,
+          "score": -9.735148429870605,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": -31.103975296020508,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -100.73526000976562,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": -114.1432876586914,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": -145.4456024169922,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": -147.74021911621094,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": -168.6448974609375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": -222.63973999023438,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": -231.53904724121094,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": -249.45225524902344,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "validator__L47": {
+      "mean": 305.6183776855469,
+      "max": 502.04779052734375,
+      "p95": 477.98651123046875,
+      "top": [
+        {
+          "start": 30,
+          "end": 33,
+          "score": 502.04779052734375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 486.64617919921875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 461.9042663574219,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 437.30657958984375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 420.48004150390625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 411.98968505859375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 399.74920654296875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 384.8872985839844,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 381.7774658203125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 354.046875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "acquire__L55": {
+      "mean": -531.329833984375,
+      "max": 216.683837890625,
+      "p95": 172.6477508544922,
+      "top": [
+        {
+          "start": 97,
+          "end": 102,
+          "score": 216.683837890625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": 175.51112365722656,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 167.33004760742188,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 105.3040542602539,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": 63.031925201416016,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 102,
+          "end": 106,
+          "score": 58.754600524902344,
+          "context": "other estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 27.30100440979004,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": -3.3435306549072266,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": -19.233169555664062,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "score": -242.27268981933594,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is"
+        }
+      ]
+    },
+    "motivated__L55": {
+      "mean": -241.70071411132812,
+      "max": 1321.6800537109375,
+      "p95": 835.3276977539062,
+      "top": [
+        {
+          "start": 30,
+          "end": 33,
+          "score": 1321.6800537109375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 965.2899780273438,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 114,
+          "end": 117,
+          "score": 593.9691162109375,
+          "context": "tor selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 472.2726135253906,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 120,
+          "end": 121,
+          "score": 263.3778991699219,
+          "context": "lected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 119,
+          "end": 120,
+          "score": 249.2325897216797,
+          "context": "elected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 181.7286834716797,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 176.52230834960938,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": 119.75918579101562,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "score": 80.52310943603516,
+          "context": " selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "report__L55": {
+      "mean": -230.0780487060547,
+      "max": -12.067459106445312,
+      "p95": -21.192848205566406,
+      "top": [
+        {
+          "start": 30,
+          "end": 33,
+          "score": -12.067459106445312,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "score": -18.39219093322754,
+          "context": " selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": -26.394071578979492,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": -52.467689514160156,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": -79.81961059570312,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": -125.90416717529297,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": -127.55562591552734,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": -128.82469177246094,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": -134.9018096923828,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 118,
+          "end": 119,
+          "score": -151.97984313964844,
+          "context": "selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "scorefile__L55": {
+      "mean": 452.1912536621094,
+      "max": 1491.4383544921875,
+      "p95": 1188.29345703125,
+      "top": [
+        {
+          "start": 59,
+          "end": 69,
+          "score": 1491.4383544921875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 1194.1331787109375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 1177.4482421875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 937.1760864257812,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": 883.4437866210938,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 863.4871826171875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 786.0807495117188,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 565.5895385742188,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 560.0545043945312,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": 517.6919555664062,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "suite__L55": {
+      "mean": 552.6558837890625,
+      "max": 1079.1947021484375,
+      "p95": 1041.587646484375,
+      "top": [
+        {
+          "start": 84,
+          "end": 85,
+          "score": 1079.1947021484375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 1048.2716064453125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": 1029.1744384765625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "score": 1008.949462890625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 997.8245849609375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 957.7298583984375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 121,
+          "end": 122,
+          "score": 938.0189819335938,
+          "context": "ected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": 918.2754516601562,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": 828.1212158203125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 810.491943359375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "validator__L55": {
+      "mean": 918.4490356445312,
+      "max": 1969.5433349609375,
+      "p95": 1887.579833984375,
+      "top": [
+        {
+          "start": 54,
+          "end": 59,
+          "score": 1969.5433349609375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 1896.279052734375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 1871.42431640625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 1843.3330078125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 1827.3262939453125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 1613.6190185546875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": 1287.517578125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 106,
+          "end": 114,
+          "score": 1203.5880126953125,
+          "context": "r estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": 1131.571533203125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 121,
+          "end": 122,
+          "score": 1101.174072265625,
+          "context": "ected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "acquire__L63": {
+      "mean": -8790.5302734375,
+      "max": 6189.908203125,
+      "p95": 5635.86279296875,
+      "top": [
+        {
+          "start": 102,
+          "end": 106,
+          "score": 6189.908203125,
+          "context": "other estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 5972.34033203125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": 5010.97607421875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 4689.4619140625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 106,
+          "end": 114,
+          "score": 3733.71484375,
+          "context": "r estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": 2877.794677734375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 1766.5550537109375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 1734.3701171875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 1623.0125732421875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 85,
+          "end": 88,
+          "score": 1572.7515869140625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "motivated__L63": {
+      "mean": -3007.970458984375,
+      "max": 6458.162109375,
+      "p95": 5737.10986328125,
+      "top": [
+        {
+          "start": 120,
+          "end": 121,
+          "score": 6458.162109375,
+          "context": "lected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 119,
+          "end": 120,
+          "score": 6000.6904296875,
+          "context": "elected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 118,
+          "end": 119,
+          "score": 5247.60302734375,
+          "context": "selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": 4484.9873046875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 117,
+          "end": 118,
+          "score": 3666.487060546875,
+          "context": " selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 114,
+          "end": 117,
+          "score": 1842.941650390625,
+          "context": "tor selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 28,
+          "end": 29,
+          "score": 1695.1712646484375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 27,
+          "end": 28,
+          "score": 1459.89697265625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 485.24664306640625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 29,
+          "end": 30,
+          "score": -169.20156860351562,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "report__L63": {
+      "mean": -1198.3427734375,
+      "max": 732.5366821289062,
+      "p95": 385.99652099609375,
+      "top": [
+        {
+          "start": 117,
+          "end": 118,
+          "score": 732.5366821289062,
+          "context": " selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 119,
+          "end": 120,
+          "score": 410.79443359375,
+          "context": "elected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "score": 339.94329833984375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 118,
+          "end": 119,
+          "score": -49.67267990112305,
+          "context": "selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "score": -313.09185791015625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 102,
+          "end": 106,
+          "score": -377.330322265625,
+          "context": "other estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 0,
+          "end": 7,
+          "score": -436.125732421875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the "
+        },
+        {
+          "start": 26,
+          "end": 27,
+          "score": -576.7329711914062,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": -622.5142822265625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "score": -758.7674560546875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "scorefile__L63": {
+      "mean": 5258.9365234375,
+      "max": 14471.1123046875,
+      "p95": 13452.9140625,
+      "top": [
+        {
+          "start": 29,
+          "end": 30,
+          "score": 14471.1123046875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 13978.037109375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 12477.6845703125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 12184.1533203125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 106,
+          "end": 114,
+          "score": 11606.0625,
+          "context": "r estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 114,
+          "end": 117,
+          "score": 10547.63671875,
+          "context": "tor selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 120,
+          "end": 121,
+          "score": 8789.1494140625,
+          "context": "lected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 8439.345703125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 7684.919921875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 7471.4619140625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "suite__L63": {
+      "mean": 1461.350341796875,
+      "max": 13866.990234375,
+      "p95": 12807.1142578125,
+      "top": [
+        {
+          "start": 29,
+          "end": 30,
+          "score": 13866.990234375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 13134.0615234375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "score": 12199.9267578125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 11411.5478515625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 106,
+          "end": 114,
+          "score": 11379.75,
+          "context": "r estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 114,
+          "end": 117,
+          "score": 10410.9453125,
+          "context": "tor selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 59,
+          "end": 69,
+          "score": 10059.9287109375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 9533.8251953125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 7883.1748046875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 84,
+          "end": 85,
+          "score": 7380.96630859375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    },
+    "validator__L63": {
+      "mean": 1513.7093505859375,
+      "max": 12020.486328125,
+      "p95": 10816.697265625,
+      "top": [
+        {
+          "start": 59,
+          "end": 69,
+          "score": 12020.486328125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 75,
+          "end": 84,
+          "score": 11001.5830078125,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 114,
+          "end": 117,
+          "score": 10473.3388671875,
+          "context": "tor selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 88,
+          "end": 97,
+          "score": 9570.4599609375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 69,
+          "end": 75,
+          "score": 9555.21484375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "score": 9058.41015625,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "score": 8433.62109375,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "score": 8183.16748046875,
+          "context": "Another estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 102,
+          "end": 106,
+          "score": 6807.8701171875,
+          "context": "other estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        },
+        {
+          "start": 106,
+          "end": 114,
+          "score": 6648.83740234375,
+          "context": "r estimator selected 950 to benefit the project. That describes their decision. My estimate from the records is 800."
+        }
+      ]
+    }
+  }
+}
